@@ -1,0 +1,1093 @@
+Country,Year,GDP_ppp_per_capita,Region,Happiness_Score,FSI,Stability
+Afghanistan,2015,2087.31,Southern Asia,3.57,107.90,12.97
+Albania,2015,11658.91,Central and Eastern Europe,4.95,61.90,22.61
+Algeria,2015,12015.64,Middle East and Northern Africa,5.60,79.60,17.58
+Angola,2015,7337.57,Sub-Saharan Africa,4.03,87.90,15.92
+Argentina,2015,20105.20,Latin America and Caribbean,6.57,47.60,29.41
+Armenia,2015,9969.66,Central and Eastern Europe,4.35,69.70,20.08
+Australia,2015,46248.62,Oceania,7.28,24.30,57.61
+Austria,2015,49865.90,Western Europe,7.20,25.80,54.26
+Azerbaijan,2015,14938.40,Central and Eastern Europe,5.21,77.30,18.11
+Bahrain,2015,45575.78,Middle East and Northern Africa,5.96,64.40,21.73
+Bangladesh,2015,3555.51,Southern Asia,4.69,91.80,15.25
+Belarus,2015,18095.67,Central and Eastern Europe,5.81,75.60,18.51
+Belgium,2015,46200.90,Western Europe,6.93,30.50,45.90
+Benin,2015,2886.83,Sub-Saharan Africa,3.34,78.80,17.76
+Bhutan,2015,9500.65,Southern Asia,5.25,78.70,17.78
+Bolivia,2015,7133.87,Latin America and Caribbean,5.89,78.10,17.92
+Bosnia and Herzegovina,2015,12010.76,Central and Eastern Europe,4.94,77.40,18.08
+Botswana,2015,14639.56,Sub-Saharan Africa,4.33,62.80,22.29
+Brazil,2015,14744.11,Latin America and Caribbean,6.98,62.70,22.32
+Bulgaria,2015,18391.93,Central and Eastern Europe,4.21,55.40,25.27
+Burkina Faso,2015,1713.52,Sub-Saharan Africa,3.58,89.20,15.69
+Burundi,2015,841.65,Sub-Saharan Africa,2.90,98.00,14.28
+Cambodia,2015,3388.74,Southeastern Asia,3.81,87.90,15.92
+Cameroon,2015,3395.63,Sub-Saharan Africa,4.25,94.30,14.84
+Canada,2015,44670.08,North America,7.42,25.60,54.68
+Central African Republic,2015,787.01,Sub-Saharan Africa,3.67,111.90,12.51
+Chad,2015,1820.06,Sub-Saharan Africa,3.66,108.40,12.91
+Chile,2015,22698.55,Latin America and Caribbean,6.67,41.50,33.73
+China,2015,12897.50,Eastern Asia,5.14,76.50,18.30
+Colombia,2015,13265.80,Latin America and Caribbean,6.47,82.50,16.96
+Comoros,2015,2709.56,Sub-Saharan Africa,3.95,83.30,16.80
+Republic of the Congo,2015,4639.74,Sub-Saharan Africa,3.98,90.80,15.41
+Democratic Republic of the Congo,2015,905.45,Sub-Saharan Africa,4.51,109.70,12.76
+Costa Rica,2015,17090.80,Latin America and Caribbean,7.22,46.80,29.91
+Croatia,2015,23301.27,Central and Eastern Europe,5.75,51.00,27.45
+Cyprus,2015,31815.27,Western Europe,5.68,66.20,21.14
+Czech Republic,2015,33899.29,Central and Eastern Europe,6.50,37.40,37.43
+Denmark,2015,49045.34,Western Europe,7.52,21.40,65.42
+Djibouti,2015,4574.45,Sub-Saharan Africa,4.36,88.00,15.90
+Dominican Republic,2015,14740.83,Latin America and Caribbean,4.88,71.20,19.66
+Ecuador,2015,11060.29,Latin America and Caribbean,5.97,75.90,18.44
+Egypt,2015,11512.40,Middle East and Northern Africa,4.19,89.90,15.57
+El Salvador,2015,7597.69,Latin America and Caribbean,6.13,71.40,19.60
+Estonia,2015,29175.93,Central and Eastern Europe,5.42,43.70,32.03
+Ethiopia,2015,1657.34,Sub-Saharan Africa,4.51,97.50,14.35
+Finland,2015,42497.70,Western Europe,7.40,17.70,79.09
+France,2015,40850.00,Western Europe,6.57,33.70,41.54
+Gabon,2015,14699.54,Sub-Saharan Africa,3.89,71.20,19.66
+Georgia,2015,12089.17,Central and Eastern Europe,4.29,79.20,17.67
+Germany,2015,47609.78,Western Europe,6.75,28.10,49.82
+Ghana,2015,5206.03,Sub-Saharan Africa,4.63,71.80,19.49
+Greece,2015,26760.36,Western Europe,4.85,52.60,26.61
+Guatemala,2015,8194.44,Latin America and Caribbean,6.12,80.40,17.41
+Guinea,2015,1819.36,Sub-Saharan Africa,3.65,104.90,13.34
+Haiti,2015,2898.62,Latin America and Caribbean,4.51,104.50,13.39
+Honduras,2015,4823.40,Latin America and Caribbean,4.78,78.10,17.92
+Hungary,2015,26806.60,Central and Eastern Europe,4.80,49.10,28.51
+Iceland,2015,49201.06,Western Europe,7.56,23.40,59.82
+India,2015,5464.86,Southern Asia,4.56,79.30,17.65
+Indonesia,2015,10247.21,Southeastern Asia,5.39,75.00,18.66
+Iran,2015,13588.47,Middle East and Northern Africa,4.68,87.10,16.07
+Iraq,2015,9763.90,Middle East and Northern Africa,4.67,104.40,13.41
+Ireland,2015,69028.77,Western Europe,6.94,24.60,56.91
+Israel,2015,35469.95,Middle East and Northern Africa,7.27,79.40,17.63
+Italy,2015,36899.39,Western Europe,5.94,43.20,32.40
+Jamaica,2015,8792.06,Latin America and Caribbean,5.70,64.60,21.67
+Japan,2015,40898.81,Eastern Asia,5.98,36.00,38.88
+Jordan,2015,9464.68,Middle East and Northern Africa,5.19,76.90,18.20
+Kazakhstan,2015,23224.12,Central and Eastern Europe,5.85,68.30,20.49
+Kenya,2015,3683.04,Sub-Saharan Africa,4.41,97.30,14.38
+Kosovo,2015,9357.14,Central and Eastern Europe,5.58,0.00,0.00
+Kuwait,2015,47230.66,Middle East and Northern Africa,6.29,57.50,24.34
+Latvia,2015,24972.79,Central and Eastern Europe,5.09,48.50,28.86
+Lebanon,2015,15105.96,Middle East and Northern Africa,4.83,88.10,15.89
+Lesotho,2015,3077.40,Sub-Saharan Africa,4.89,79.90,17.52
+Liberia,2015,1312.46,Sub-Saharan Africa,4.57,97.30,14.38
+Libya,2015,12220.02,Middle East and Northern Africa,5.75,95.30,14.69
+Lithuania,2015,28834.43,Central and Eastern Europe,5.83,43.00,32.55
+Luxembourg,2015,107859.69,Western Europe,6.94,22.10,63.34
+Madagascar,2015,1546.84,Sub-Saharan Africa,3.68,83.60,16.74
+Malawi,2015,1445.74,Sub-Saharan Africa,4.29,86.90,16.11
+Malaysia,2015,24801.89,Southeastern Asia,5.77,65.90,21.24
+Mali,2015,2032.66,Sub-Saharan Africa,3.99,92.90,15.07
+Malta,2015,37455.20,Western Europe,6.30,40.90,34.22
+Mauritania,2015,4200.15,Sub-Saharan Africa,4.43,94.90,14.75
+Mauritius,2015,19229.84,Sub-Saharan Africa,5.47,45.20,30.97
+Mexico,2015,18301.50,Latin America and Caribbean,7.18,71.90,19.47
+Moldova,2015,9254.85,Central and Eastern Europe,5.88,73.00,19.17
+Mongolia,2015,10648.27,Eastern Asia,4.87,57.00,24.56
+Montenegro,2015,16332.85,Central and Eastern Europe,5.19,54.20,25.83
+Morocco,2015,7024.96,Middle East and Northern Africa,5.01,74.60,18.76
+Mozambique,2015,1291.27,Sub-Saharan Africa,4.97,86.90,16.11
+Myanmar,2015,4105.44,Southeastern Asia,4.30,94.70,14.78
+Nepal,2015,2996.22,Southern Asia,4.51,90.50,15.46
+Netherlands,2015,50288.59,Western Europe,7.37,26.90,52.04
+New Zealand,2015,37479.68,Oceania,7.28,22.60,61.94
+Nicaragua,2015,5293.87,Latin America and Caribbean,5.82,79.00,17.72
+Niger,2015,1145.31,Sub-Saharan Africa,3.84,97.80,14.31
+Nigeria,2015,5426.33,Sub-Saharan Africa,5.26,102.50,13.65
+Norway,2015,60368.92,Western Europe,7.52,20.90,66.98
+Oman,2015,35803.66,Middle East and Northern Africa,6.85,52.00,26.92
+Pakistan,2015,4373.01,Southern Asia,5.19,103.00,13.59
+Panama,2015,25319.22,Latin America and Caribbean,6.78,54.60,25.64
+Paraguay,2015,11486.52,Latin America and Caribbean,5.87,71.30,19.63
+Peru,2015,11572.32,Latin America and Caribbean,5.82,72.00,19.44
+Philippines,2015,7186.77,Southeastern Asia,5.07,86.20,16.24
+Poland,2015,26862.05,Central and Eastern Europe,5.79,39.80,35.17
+Portugal,2015,29660.90,Western Europe,5.10,29.70,47.13
+Qatar,2015,92968.23,Middle East and Northern Africa,6.61,46.30,30.23
+Romania,2015,21605.84,Central and Eastern Europe,5.12,54.20,25.83
+Rwanda,2015,1804.55,Sub-Saharan Africa,3.46,90.20,15.52
+Saudi Arabia,2015,48611.13,Middle East and Northern Africa,6.41,71.60,19.55
+Senegal,2015,2971.35,Sub-Saharan Africa,3.90,82.90,16.88
+Serbia,2015,14928.47,Central and Eastern Europe,5.12,73.80,18.97
+Sierra Leone,2015,1586.69,Sub-Saharan Africa,4.50,91.90,15.23
+Singapore,2015,86974.75,Southeastern Asia,6.79,34.40,40.69
+Slovenia,2015,31628.25,Central and Eastern Europe,5.84,31.50,44.44
+South Africa,2015,13701.95,Sub-Saharan Africa,4.64,67.00,20.89
+Republic of Korea,2015,37902.40,Eastern Asia,5.98,36.30,38.56
+Spain,2015,34903.13,Western Europe,6.32,40.90,34.22
+Sri Lanka,2015,11557.49,Southern Asia,4.27,90.70,15.43
+Sudan,2015,4434.47,Sub-Saharan Africa,4.55,110.80,12.63
+Suriname,2015,17210.27,Latin America and Caribbean,6.26,68.40,20.46
+Sweden,2015,49103.13,Western Europe,7.36,20.20,69.30
+Switzerland,2015,66020.20,Western Europe,7.58,22.30,62.78
+Tajikistan,2015,3150.43,Central and Eastern Europe,4.78,83.40,16.78
+Tanzania,2015,2348.44,Sub-Saharan Africa,3.78,80.80,17.32
+Thailand,2015,15822.37,Southeastern Asia,6.45,79.10,17.69
+Togo,2015,1397.33,Sub-Saharan Africa,2.83,86.80,16.12
+Trinidad and Tobago,2015,27397.23,Latin America and Caribbean,6.16,58.70,23.85
+Tunisia,2015,10825.09,Middle East and Northern Africa,4.73,75.70,18.49
+Turkey,2015,25753.39,Middle East and Northern Africa,5.33,74.60,18.76
+Turkmenistan,2015,13690.61,Central and Eastern Europe,5.54,77.40,18.08
+Uganda,2015,2128.74,Sub-Saharan Africa,3.93,97.00,14.43
+Ukraine,2015,10164.33,Central and Eastern Europe,4.68,76.30,18.34
+United Arab Emirates,2015,64901.88,Middle East and Northern Africa,6.90,46.20,30.30
+United Kingdom,2015,42912.88,Western Europe,6.86,33.40,41.91
+United States,2015,56863.37,North America,7.11,35.40,39.54
+Uruguay,2015,20217.56,Latin America and Caribbean,6.48,36.40,38.46
+Uzbekistan,2015,6680.18,Central and Eastern Europe,6.00,85.30,16.41
+Venezuela,2015,17527.75,Latin America and Caribbean,6.81,78.70,17.78
+Vietnam,2015,6102.64,Southeastern Asia,5.36,72.40,19.33
+Zambia,2015,3430.40,Sub-Saharan Africa,5.12,85.10,16.45
+Zimbabwe,2015,2679.51,Sub-Saharan Africa,4.61,100.00,14.00
+Afghanistan,2016,1981.12,Southern Asia,3.36,107.90,12.97
+Albania,2016,12078.84,Central and Eastern Europe,4.65,61.20,22.87
+Algeria,2016,11624.34,Middle East and Northern Africa,6.35,78.30,17.87
+Angola,2016,7103.23,Sub-Saharan Africa,3.86,90.50,15.46
+Argentina,2016,20307.87,Latin America and Caribbean,6.65,48.40,28.92
+Armenia,2016,10704.23,Central and Eastern Europe,4.36,69.60,20.11
+Australia,2016,47255.31,Oceania,7.31,22.50,62.22
+Austria,2016,52684.02,Western Europe,7.11,27.50,50.90
+Azerbaijan,2016,14371.02,Central and Eastern Europe,5.29,76.30,18.34
+Bahrain,2016,44768.97,Middle East and Northern Africa,6.21,63.40,22.08
+Bangladesh,2016,3848.96,Southern Asia,4.64,90.70,15.43
+Belarus,2016,17785.94,Central and Eastern Europe,5.80,73.90,18.94
+Belgium,2016,48597.40,Western Europe,6.92,29.00,48.27
+Benin,2016,3004.81,Sub-Saharan Africa,3.48,78.90,17.74
+Bhutan,2016,10457.24,Southern Asia,5.19,77.60,18.04
+Bolivia,2016,7499.77,Latin America and Caribbean,5.82,78.50,17.83
+Bosnia and Herzegovina,2016,13072.18,Central and Eastern Europe,5.16,74.60,18.76
+Botswana,2016,16638.52,Sub-Saharan Africa,3.97,63.50,22.04
+Brazil,2016,14256.16,Latin America and Caribbean,6.95,65.30,21.43
+Bulgaria,2016,20074.38,Central and Eastern Europe,4.21,53.70,26.07
+Burkina Faso,2016,1895.30,Sub-Saharan Africa,3.73,89.40,15.66
+Burundi,2016,796.94,Sub-Saharan Africa,2.90,100.70,13.90
+Cambodia,2016,3675.04,Southeastern Asia,3.90,87.40,16.01
+Cameroon,2016,3527.17,Sub-Saharan Africa,4.51,97.80,14.31
+Canada,2016,46472.34,North America,7.40,23.80,58.82
+Central African Republic,2016,851.07,Sub-Saharan Africa,0.00,112.10,12.48
+Chad,2016,1664.51,Sub-Saharan Africa,3.76,110.10,12.71
+Chile,2016,23437.59,Latin America and Caribbean,6.70,41.90,33.41
+China,2016,13483.38,Eastern Asia,5.24,74.90,18.69
+Colombia,2016,13812.10,Latin America and Caribbean,6.48,80.20,17.45
+Comoros,2016,2863.85,Sub-Saharan Africa,3.95,83.80,16.70
+Republic of the Congo,2016,3839.96,Sub-Saharan Africa,4.23,92.20,15.18
+Democratic Republic of the Congo,2016,963.67,Sub-Saharan Africa,4.27,110.00,12.72
+Costa Rica,2016,19075.00,Latin America and Caribbean,7.08,45.10,31.04
+Croatia,2016,25210.98,Central and Eastern Europe,5.48,52.40,26.71
+Cyprus,2016,35719.19,Western Europe,5.54,64.00,21.87
+Czech Republic,2016,36097.71,Central and Eastern Europe,6.59,40.80,34.31
+Denmark,2016,51976.01,Western Europe,7.52,21.50,65.11
+Djibouti,2016,4692.55,Sub-Saharan Africa,0.00,89.70,15.60
+Dominican Republic,2016,16109.86,Latin America and Caribbean,5.15,70.80,19.77
+Ecuador,2016,11034.27,Latin America and Caribbean,5.97,75.60,18.51
+Egypt,2016,11192.37,Middle East and Northern Africa,4.36,90.20,15.52
+El Salvador,2016,8038.63,Latin America and Caribbean,6.06,72.50,19.31
+Estonia,2016,31312.75,Central and Eastern Europe,5.51,43.40,32.25
+Ethiopia,2016,1878.81,Sub-Saharan Africa,4.50,97.20,14.40
+Finland,2016,44934.45,Western Europe,7.41,18.80,74.46
+France,2016,42924.61,Western Europe,6.47,34.50,40.57
+Gabon,2016,14286.19,Sub-Saharan Africa,4.12,72.00,19.44
+Georgia,2016,12858.48,Central and Eastern Europe,4.25,78.90,17.74
+Germany,2016,50579.68,Western Europe,6.99,28.60,48.95
+Ghana,2016,4992.73,Sub-Saharan Africa,4.27,71.20,19.66
+Greece,2016,27511.80,Western Europe,5.03,55.90,25.04
+Guatemala,2016,8221.75,Latin America and Caribbean,6.32,83.20,16.82
+Guinea,2016,2078.64,Sub-Saharan Africa,3.60,103.80,13.48
+Haiti,2016,3084.03,Latin America and Caribbean,4.02,105.10,13.32
+Honduras,2016,5147.25,Latin America and Caribbean,4.87,79.80,17.54
+Hungary,2016,27947.64,Central and Eastern Europe,5.14,52.70,26.56
+Iceland,2016,53480.40,Western Europe,7.50,22.80,61.40
+India,2016,5839.86,Southern Asia,4.40,79.60,17.58
+Indonesia,2016,10494.47,Southeastern Asia,5.31,74.90,18.69
+Iran,2016,14011.55,Middle East and Northern Africa,4.81,86.90,16.11
+Iraq,2016,9428.61,Middle East and Northern Africa,4.57,104.70,13.37
+Ireland,2016,71498.60,Western Europe,6.90,22.50,62.22
+Israel,2016,37843.19,Middle East and Northern Africa,7.26,79.70,17.56
+Italy,2016,39926.95,Western Europe,5.97,43.10,32.48
+Jamaica,2016,9194.16,Latin America and Caribbean,5.51,65.00,21.53
+Japan,2016,40623.02,Eastern Asia,5.92,35.10,39.88
+Jordan,2016,9445.92,Middle East and Northern Africa,5.30,78.00,17.94
+Kazakhstan,2016,23818.82,Central and Eastern Europe,5.91,66.50,21.05
+Kenya,2016,3930.89,Sub-Saharan Africa,4.35,98.30,14.24
+Kosovo,2016,10007.69,Central and Eastern Europe,5.40,0.00,0.00
+Kuwait,2016,44685.50,Middle East and Northern Africa,6.23,58.50,23.93
+Latvia,2016,26721.73,Central and Eastern Europe,5.56,47.40,29.53
+Lebanon,2016,15535.50,Middle East and Northern Africa,5.12,89.60,15.62
+Lesotho,2016,2990.28,Sub-Saharan Africa,0.00,80.90,17.30
+Liberia,2016,1429.79,Sub-Saharan Africa,3.62,95.50,14.65
+Libya,2016,11108.72,Middle East and Northern Africa,5.61,96.40,14.52
+Lithuania,2016,30925.17,Central and Eastern Europe,5.81,42.40,33.01
+Luxembourg,2016,113365.18,Western Europe,6.87,24.10,58.09
+Madagascar,2016,1606.67,Sub-Saharan Africa,3.69,84.20,16.62
+Malawi,2016,1454.36,Sub-Saharan Africa,4.15,87.60,15.98
+Malaysia,2016,25546.13,Southeastern Asia,6.00,66.10,21.18
+Mali,2016,2189.01,Sub-Saharan Africa,4.07,95.20,14.70
+Malta,2016,39887.10,Western Europe,6.48,39.60,35.35
+Mauritania,2016,4700.11,Sub-Saharan Africa,4.20,95.40,14.67
+Mauritius,2016,20701.22,Sub-Saharan Africa,5.64,43.20,32.40
+Mexico,2016,19323.67,Latin America and Caribbean,6.77,70.40,19.88
+Moldova,2016,10610.48,Central and Eastern Europe,5.89,73.20,19.12
+Mongolia,2016,10737.49,Eastern Asia,4.90,56.60,24.73
+Montenegro,2016,18199.38,Central and Eastern Europe,5.16,55.20,25.36
+Morocco,2016,7113.00,Middle East and Northern Africa,5.15,74.20,18.86
+Mozambique,2016,1363.67,Sub-Saharan Africa,0.00,87.80,15.94
+Myanmar,2016,4031.18,Southeastern Asia,4.39,96.30,14.53
+Nepal,2016,2989.68,Southern Asia,4.79,91.20,15.35
+Netherlands,2016,52288.42,Western Europe,7.33,28.20,49.64
+New Zealand,2016,39955.80,Oceania,7.33,21.30,65.72
+Nicaragua,2016,5694.05,Latin America and Caribbean,5.99,79.00,17.72
+Niger,2016,1153.34,Sub-Saharan Africa,3.85,98.40,14.22
+Nigeria,2016,5234.68,Sub-Saharan Africa,4.87,103.50,13.52
+Norway,2016,58939.91,Western Europe,7.49,21.20,66.03
+Oman,2016,33187.95,Middle East and Northern Africa,0.00,51.60,27.13
+Pakistan,2016,4410.01,Southern Asia,5.13,101.70,13.76
+Panama,2016,27828.56,Latin America and Caribbean,6.70,53.20,26.31
+Paraguay,2016,12041.72,Latin America and Caribbean,5.53,72.60,19.28
+Peru,2016,12013.38,Latin America and Caribbean,5.74,72.00,19.44
+Philippines,2016,7703.76,Southeastern Asia,5.27,84.70,16.52
+Poland,2016,28322.11,Central and Eastern Europe,5.83,40.70,34.39
+Portugal,2016,31607.75,Western Europe,5.12,29.20,47.94
+Qatar,2016,83102.35,Middle East and Northern Africa,6.37,45.10,31.04
+Romania,2016,24271.47,Central and Eastern Europe,5.52,52.90,26.46
+Rwanda,2016,1882.37,Sub-Saharan Africa,3.51,91.30,15.33
+Saudi Arabia,2016,45484.44,Middle East and Northern Africa,6.37,72.20,19.39
+Senegal,2016,3075.94,Sub-Saharan Africa,4.21,83.60,16.74
+Serbia,2016,15858.10,Central and Eastern Europe,5.17,72.00,19.44
+Sierra Leone,2016,1596.62,Sub-Saharan Africa,4.63,91.00,15.38
+Singapore,2016,89417.35,Southeastern Asia,6.73,32.90,42.55
+Slovenia,2016,33936.04,Central and Eastern Europe,5.76,33.90,41.29
+South Africa,2016,13748.46,Sub-Saharan Africa,4.45,69.90,20.02
+Republic of Korea,2016,39575.45,Eastern Asia,5.83,36.10,38.78
+Spain,2016,37286.21,Western Europe,6.36,39.80,35.17
+Sri Lanka,2016,12224.22,Southern Asia,4.41,87.70,15.96
+Sudan,2016,4757.06,Sub-Saharan Africa,4.13,111.50,12.55
+Suriname,2016,15062.44,Latin America and Caribbean,6.26,66.70,20.98
+Sweden,2016,50430.25,Western Europe,7.29,22.60,61.94
+Switzerland,2016,68105.15,Western Europe,7.50,21.80,64.22
+Tajikistan,2016,3114.90,Central and Eastern Europe,4.99,83.80,16.70
+Tanzania,2016,2479.33,Sub-Saharan Africa,3.66,81.80,17.11
+Thailand,2016,16616.20,Southeastern Asia,6.47,78.80,17.76
+Togo,2016,1954.20,Sub-Saharan Africa,3.30,85.80,16.31
+Trinidad and Tobago,2016,26389.74,Latin America and Caribbean,6.16,57.80,24.22
+Tunisia,2016,10993.63,Middle East and Northern Africa,5.04,74.60,18.76
+Turkey,2016,26512.02,Middle East and Northern Africa,5.38,77.30,18.11
+Turkmenistan,2016,13862.28,Central and Eastern Europe,5.65,76.00,18.42
+Uganda,2016,2092.48,Sub-Saharan Africa,3.73,97.70,14.32
+Ukraine,2016,11148.20,Central and Eastern Europe,4.32,75.50,18.54
+United Arab Emirates,2016,63968.89,Middle East and Northern Africa,6.57,44.50,31.46
+United Kingdom,2016,44635.30,Western Europe,6.72,32.40,43.20
+United States,2016,58021.40,North America,7.10,34.00,41.17
+Uruguay,2016,22454.39,Latin America and Caribbean,6.54,36.20,38.67
+Uzbekistan,2016,6796.90,Central and Eastern Europe,5.98,83.50,16.76
+Venezuela,2016,17527.75,Latin America and Caribbean,6.08,81.60,17.15
+Vietnam,2016,6572.98,Southeastern Asia,5.06,70.70,19.80
+Zambia,2016,3404.67,Sub-Saharan Africa,4.79,86.30,16.22
+Zimbabwe,2016,2806.47,Sub-Saharan Africa,4.19,100.50,13.93
+Afghanistan,2017,2058.40,Southern Asia,3.79,107.30,13.04
+Albania,2017,12770.96,Central and Eastern Europe,4.64,60.50,23.14
+Algeria,2017,11737.40,Middle East and Northern Africa,5.87,76.80,18.22
+Angola,2017,7310.90,Sub-Saharan Africa,3.80,91.10,15.36
+Argentina,2017,23597.12,Latin America and Caribbean,6.60,48.20,29.04
+Armenia,2017,12115.14,Central and Eastern Europe,4.38,71.00,19.71
+Australia,2017,48398.55,Oceania,7.28,22.30,62.78
+Austria,2017,54172.99,Western Europe,7.01,27.70,50.54
+Azerbaijan,2017,14121.41,Central and Eastern Europe,5.23,76.30,18.34
+Bahrain,2017,47709.78,Middle East and Northern Africa,6.09,64.90,21.57
+Bangladesh,2017,4160.70,Southern Asia,4.61,89.10,15.71
+Belarus,2017,18356.10,Central and Eastern Europe,5.57,72.40,19.33
+Belgium,2017,50442.27,Western Europe,6.89,30.80,45.45
+Benin,2017,3044.52,Sub-Saharan Africa,3.66,77.60,18.04
+Bhutan,2017,11142.47,Southern Asia,5.01,76.00,18.42
+Bolivia,2017,8423.70,Latin America and Caribbean,5.82,76.80,18.22
+Bosnia and Herzegovina,2017,13753.84,Central and Eastern Europe,5.18,73.00,19.17
+Botswana,2017,15948.03,Sub-Saharan Africa,3.77,63.80,21.94
+Brazil,2017,14524.61,Latin America and Caribbean,6.64,68.20,20.52
+Bulgaria,2017,21469.95,Central and Eastern Europe,4.71,53.70,26.07
+Burkina Faso,2017,2044.39,Sub-Saharan Africa,4.03,88.00,15.90
+Burundi,2017,773.57,Sub-Saharan Africa,2.90,98.90,14.15
+Cambodia,2017,3928.37,Southeastern Asia,4.17,85.70,16.33
+Cameroon,2017,3665.12,Sub-Saharan Africa,4.70,95.60,14.64
+Canada,2017,48317.10,North America,7.32,22.60,61.94
+Central African Republic,2017,912.80,Sub-Saharan Africa,2.69,112.60,12.43
+Chad,2017,1587.03,Sub-Saharan Africa,3.94,109.40,12.79
+Chile,2017,24470.70,Latin America and Caribbean,6.65,41.10,34.06
+China,2017,14243.53,Eastern Asia,5.27,74.70,18.74
+Colombia,2017,14171.32,Latin America and Caribbean,6.36,78.90,17.74
+Comoros,2017,3032.26,Sub-Saharan Africa,0.00,84.80,16.50
+Republic of the Congo,2017,4234.66,Sub-Saharan Africa,4.29,93.40,14.98
+Democratic Republic of the Congo,2017,1059.81,Sub-Saharan Africa,4.28,110.00,12.72
+Costa Rica,2017,20347.03,Latin America and Caribbean,7.08,44.10,31.74
+Croatia,2017,27154.08,Central and Eastern Europe,5.29,50.60,27.66
+Cyprus,2017,38287.97,Western Europe,5.62,62.60,22.36
+Czech Republic,2017,38824.89,Central and Eastern Europe,6.61,40.10,34.91
+Denmark,2017,55356.68,Western Europe,7.52,21.50,65.11
+Djibouti,2017,4885.21,Sub-Saharan Africa,0.00,88.90,15.74
+Dominican Republic,2017,16735.36,Latin America and Caribbean,5.23,69.00,20.28
+Ecuador,2017,11617.91,Latin America and Caribbean,6.01,77.30,18.11
+Egypt,2017,11014.49,Middle East and Northern Africa,4.74,89.80,15.59
+El Salvador,2017,8454.05,Latin America and Caribbean,6.00,73.10,19.15
+Estonia,2017,33821.93,Central and Eastern Europe,5.61,44.70,31.31
+Ethiopia,2017,2021.56,Sub-Saharan Africa,4.46,101.10,13.84
+Finland,2017,47570.13,Western Europe,7.47,18.70,74.86
+France,2017,44577.06,Western Europe,6.44,33.50,41.79
+Gabon,2017,15006.84,Sub-Saharan Africa,4.47,73.80,18.97
+Georgia,2017,13589.71,Central and Eastern Europe,4.29,76.50,18.30
+Germany,2017,53071.46,Western Europe,6.95,28.10,49.82
+Ghana,2017,5115.91,Sub-Saharan Africa,4.12,69.70,20.08
+Greece,2017,28604.86,Western Europe,5.23,57.50,24.34
+Guatemala,2017,8322.22,Latin America and Caribbean,6.45,83.10,16.84
+Guinea,2017,2417.80,Sub-Saharan Africa,3.51,102.40,13.67
+Haiti,2017,3153.30,Latin America and Caribbean,3.60,105.30,13.29
+Honduras,2017,5561.99,Latin America and Caribbean,5.18,79.10,17.69
+Hungary,2017,29501.12,Central and Eastern Europe,5.32,52.00,26.92
+Iceland,2017,55638.49,Western Europe,7.50,22.50,62.22
+India,2017,6182.92,Southern Asia,4.32,77.90,17.97
+Indonesia,2017,10935.63,Southeastern Asia,5.26,72.90,19.20
+Iran,2017,14535.87,Middle East and Northern Africa,4.69,85.80,16.31
+Iraq,2017,10526.37,Middle East and Northern Africa,4.50,105.40,13.28
+Ireland,2017,77749.20,Western Europe,6.98,22.30,62.78
+Israel,2017,39121.30,Middle East and Northern Africa,7.21,78.90,17.74
+Italy,2017,41581.12,Western Europe,5.96,45.20,30.97
+Jamaica,2017,9600.10,Latin America and Caribbean,5.31,65.20,21.47
+Japan,2017,41505.08,Eastern Asia,5.92,37.40,37.43
+Jordan,2017,10003.57,Middle East and Northern Africa,5.34,78.70,17.78
+Kazakhstan,2017,24862.97,Central and Eastern Europe,5.82,65.90,21.24
+Kenya,2017,4203.59,Sub-Saharan Africa,4.55,96.40,14.52
+Kosovo,2017,10436.17,Central and Eastern Europe,5.28,0.00,0.00
+Kuwait,2017,50855.55,Middle East and Northern Africa,6.11,58.50,23.93
+Latvia,2017,28673.56,Central and Eastern Europe,5.85,46.40,30.17
+Lebanon,2017,16043.06,Middle East and Northern Africa,5.22,88.20,15.87
+Lesotho,2017,2668.29,Sub-Saharan Africa,3.81,81.70,17.13
+Liberia,2017,1564.20,Sub-Saharan Africa,3.53,93.80,14.92
+Libya,2017,13238.00,Middle East and Northern Africa,5.53,96.30,14.53
+Lithuania,2017,33761.87,Central and Eastern Europe,5.90,41.70,33.57
+Luxembourg,2017,114985.84,Western Europe,6.86,23.40,59.82
+Madagascar,2017,1584.42,Sub-Saharan Africa,3.64,84.00,16.66
+Malawi,2017,1472.15,Sub-Saharan Africa,3.97,88.00,15.90
+Malaysia,2017,26661.51,Southeastern Asia,6.08,65.40,21.40
+Mali,2017,2246.80,Sub-Saharan Africa,4.19,92.90,15.07
+Malta,2017,42644.08,Western Europe,6.53,38.60,36.26
+Mauritania,2017,5108.55,Sub-Saharan Africa,4.29,93.70,14.94
+Mauritius,2017,21415.12,Sub-Saharan Africa,5.63,41.70,33.57
+Mexico,2017,19721.26,Latin America and Caribbean,6.58,74.30,18.84
+Moldova,2017,11651.32,Central and Eastern Europe,5.84,72.00,19.44
+Mongolia,2017,11366.30,Eastern Asia,4.95,56.70,24.69
+Montenegro,2017,19682.27,Central and Eastern Europe,5.24,55.70,25.13
+Morocco,2017,7312.06,Middle East and Northern Africa,5.24,74.90,18.69
+Mozambique,2017,1283.66,Sub-Saharan Africa,4.55,89.00,15.73
+Myanmar,2017,4224.55,Southeastern Asia,4.55,95.70,14.62
+Nepal,2017,3565.20,Southern Asia,4.96,91.00,15.38
+Netherlands,2017,55088.63,Western Europe,7.38,27.40,51.09
+New Zealand,2017,42285.32,Oceania,7.31,22.60,61.94
+Nicaragua,2017,6004.01,Latin America and Caribbean,6.07,77.40,18.08
+Niger,2017,1163.23,Sub-Saharan Africa,4.03,97.40,14.37
+Nigeria,2017,5190.36,Sub-Saharan Africa,5.07,101.60,13.77
+Norway,2017,64050.76,Western Europe,7.54,20.50,68.29
+Oman,2017,33308.48,Middle East and Northern Africa,0.00,52.50,26.66
+Pakistan,2017,4571.21,Southern Asia,5.27,98.90,14.15
+Panama,2017,30446.85,Latin America and Caribbean,6.45,50.70,27.61
+Paraguay,2017,12590.55,Latin America and Caribbean,5.49,71.60,19.55
+Peru,2017,12506.53,Latin America and Caribbean,5.72,70.30,19.91
+Philippines,2017,8120.87,Southeastern Asia,5.43,84.40,16.58
+Poland,2017,30064.50,Central and Eastern Europe,5.97,40.80,34.31
+Portugal,2017,33044.72,Western Europe,5.20,29.00,48.27
+Qatar,2017,91738.75,Middle East and Northern Africa,6.38,44.00,31.81
+Romania,2017,27141.90,Central and Eastern Europe,5.82,50.90,27.50
+Rwanda,2017,1975.25,Sub-Saharan Africa,3.47,90.80,15.41
+Saudi Arabia,2017,47306.22,Middle East and Northern Africa,6.34,71.20,19.66
+Senegal,2017,3203.91,Sub-Saharan Africa,4.53,82.30,17.01
+Serbia,2017,16611.02,Central and Eastern Europe,5.39,70.00,20.00
+Sierra Leone,2017,1633.73,Sub-Saharan Africa,4.71,89.30,15.67
+Singapore,2017,95350.44,Southeastern Asia,6.57,32.50,43.07
+Slovenia,2017,36507.55,Central and Eastern Europe,5.76,32.40,43.20
+South Africa,2017,13860.27,Sub-Saharan Africa,4.83,72.30,19.36
+Republic of Korea,2017,40957.42,Eastern Asia,5.84,38.10,36.74
+Spain,2017,39528.93,Western Europe,6.40,37.90,36.93
+Sri Lanka,2017,12584.10,Southern Asia,4.44,86.60,16.16
+Sudan,2017,4598.85,Sub-Saharan Africa,4.14,110.60,12.65
+Suriname,2017,18283.69,Latin America and Caribbean,0.00,65.90,21.24
+Sweden,2017,51947.95,Western Europe,7.28,22.10,63.34
+Switzerland,2017,69103.57,Western Europe,7.49,21.10,66.35
+Tajikistan,2017,3252.93,Central and Eastern Europe,5.04,81.80,17.11
+Tanzania,2017,2530.60,Sub-Saharan Africa,3.35,80.30,17.43
+Thailand,2017,17422.95,Southeastern Asia,6.42,76.20,18.37
+Togo,2017,2012.24,Sub-Saharan Africa,3.49,83.90,16.68
+Trinidad and Tobago,2017,26342.62,Latin America and Caribbean,6.17,56.70,24.69
+Tunisia,2017,11234.49,Middle East and Northern Africa,4.80,74.20,18.86
+Turkey,2017,27913.82,Middle East and Northern Africa,5.50,80.80,17.32
+Turkmenistan,2017,14205.03,Central and Eastern Europe,5.82,74.40,18.81
+Uganda,2017,2074.65,Sub-Saharan Africa,4.08,96.00,14.58
+Ukraine,2017,11860.56,Central and Eastern Europe,4.10,74.00,18.91
+United Arab Emirates,2017,67183.61,Middle East and Northern Africa,6.65,43.70,32.03
+United Kingdom,2017,46372.39,Western Europe,6.71,33.20,42.16
+United States,2017,60109.66,North America,6.99,35.60,39.32
+Uruguay,2017,23009.87,Latin America and Caribbean,6.45,36.80,38.04
+Uzbekistan,2017,6840.71,Central and Eastern Europe,5.97,81.50,17.17
+Venezuela,2017,17527.75,Latin America and Caribbean,5.25,82.90,16.88
+Vietnam,2017,7155.44,Southeastern Asia,5.07,70.20,19.94
+Zambia,2017,3485.02,Sub-Saharan Africa,4.51,87.80,15.94
+Zimbabwe,2017,3795.64,Sub-Saharan Africa,3.88,101.60,13.77
+Afghanistan,2018,2082.64,Southern Asia,3.63,106.62,13.13
+Albania,2018,13483.01,Central and Eastern Europe,4.58,60.07,23.30
+Algeria,2018,11909.93,Middle East and Northern Africa,5.29,75.78,18.47
+Angola,2018,7099.97,Sub-Saharan Africa,3.79,89.44,15.65
+Argentina,2018,23293.40,Latin America and Caribbean,6.38,46.06,30.38
+Armenia,2018,13020.40,Central and Eastern Europe,4.32,69.54,20.13
+Australia,2018,50169.19,Oceania,7.27,20.77,67.40
+Austria,2018,56960.09,Western Europe,7.13,26.18,53.47
+Azerbaijan,2018,14550.76,Central and Eastern Europe,5.20,74.63,18.75
+Bahrain,2018,47503.06,Middle East and Northern Africa,6.10,64.38,21.74
+Bangladesh,2018,4547.48,Southern Asia,4.50,90.31,15.50
+Belarus,2018,19430.28,Central and Eastern Europe,5.48,70.54,19.84
+Belgium,2018,52528.12,Western Europe,6.92,29.65,47.21
+Benin,2018,3236.67,Sub-Saharan Africa,4.14,75.69,18.49
+Bhutan,2018,11620.92,Southern Asia,5.08,74.27,18.84
+Bolivia,2018,8863.35,Latin America and Caribbean,5.75,75.22,18.61
+Bosnia and Herzegovina,2018,14901.78,Central and Eastern Europe,5.12,71.33,19.62
+Botswana,2018,16611.90,Sub-Saharan Africa,3.59,61.98,22.58
+Brazil,2018,15020.44,Latin America and Caribbean,6.41,68.71,20.37
+Bulgaria,2018,22990.11,Central and Eastern Europe,4.93,51.65,27.10
+Burkina Faso,2018,2168.66,Sub-Saharan Africa,4.42,86.52,16.18
+Burundi,2018,779.81,Sub-Saharan Africa,2.90,97.36,14.37
+Cambodia,2018,4259.20,Southeastern Asia,4.43,84.04,16.65
+Cameroon,2018,3800.97,Sub-Saharan Africa,4.97,95.31,14.68
+Canada,2018,49992.64,North America,7.32,21.50,65.09
+Central African Republic,2018,955.51,Sub-Saharan Africa,3.08,111.12,12.59
+Chad,2018,1614.17,Sub-Saharan Africa,4.30,108.31,12.92
+Chile,2018,25714.14,Latin America and Caribbean,6.47,40.69,34.40
+China,2018,15497.36,Eastern Asia,5.24,72.39,19.33
+Colombia,2018,15044.06,Latin America and Caribbean,6.26,76.62,18.27
+Comoros,2018,3146.90,Sub-Saharan Africa,0.00,82.62,16.94
+Republic of the Congo,2018,4022.75,Sub-Saharan Africa,4.55,93.12,15.03
+Democratic Republic of the Congo,2018,1111.97,Sub-Saharan Africa,4.24,110.67,12.65
+Costa Rica,2018,21319.04,Latin America and Caribbean,7.07,43.23,32.37
+Croatia,2018,28844.92,Central and Eastern Europe,5.32,48.71,28.73
+Cyprus,2018,40513.69,Western Europe,5.76,60.28,23.22
+Czech Republic,2018,41135.49,Central and Eastern Europe,6.71,39.04,35.85
+Denmark,2018,57482.96,Western Europe,7.55,19.78,70.76
+Djibouti,2018,5339.26,Sub-Saharan Africa,0.00,87.11,16.07
+Dominican Republic,2018,18137.05,Latin America and Caribbean,5.30,69.19,20.23
+Ecuador,2018,11839.34,Latin America and Caribbean,5.97,74.23,18.86
+Egypt,2018,11639.24,Middle East and Northern Africa,4.41,88.73,15.77
+El Salvador,2018,8822.55,Latin America and Caribbean,6.16,71.16,19.67
+Estonia,2018,36249.36,Central and Eastern Europe,5.73,42.99,32.56
+Ethiopia,2018,2154.02,Sub-Saharan Africa,4.35,99.56,14.06
+Finland,2018,49580.61,Western Europe,7.63,17.93,78.06
+France,2018,46576.60,Western Europe,6.48,32.22,43.44
+Gabon,2018,15097.69,Sub-Saharan Africa,4.75,72.47,19.31
+Georgia,2018,14595.63,Central and Eastern Europe,4.34,74.00,18.91
+Germany,2018,55235.37,Western Europe,6.96,25.83,54.19
+Ghana,2018,5442.87,Sub-Saharan Africa,4.65,68.12,20.55
+Greece,2018,29617.55,Western Europe,5.35,55.28,25.32
+Guatemala,2018,8665.35,Latin America and Caribbean,6.38,81.83,17.10
+Guinea,2018,2559.72,Sub-Saharan Africa,3.96,101.61,13.77
+Haiti,2018,3241.30,Latin America and Caribbean,3.58,101.96,13.72
+Honduras,2018,5816.75,Latin America and Caribbean,5.50,77.26,18.12
+Hungary,2018,31913.07,Central and Eastern Europe,5.62,50.20,27.88
+Iceland,2018,57211.30,Western Europe,7.49,20.30,68.96
+India,2018,6675.36,Southern Asia,4.19,76.30,18.34
+Indonesia,2018,11644.76,Southeastern Asia,5.09,72.29,19.36
+Iran,2018,13795.32,Middle East and Northern Africa,4.70,84.27,16.61
+Iraq,2018,10809.47,Middle East and Northern Africa,4.45,102.20,13.69
+Ireland,2018,84555.63,Western Europe,6.97,20.73,67.50
+Israel,2018,39906.12,Middle East and Northern Africa,6.81,78.53,17.82
+Italy,2018,43036.24,Western Europe,6.00,43.80,31.96
+Jamaica,2018,9968.59,Latin America and Caribbean,5.89,63.11,22.18
+Japan,2018,42202.40,Eastern Asia,5.91,34.47,40.60
+Jordan,2018,10253.82,Middle East and Northern Africa,5.16,76.75,18.24
+Kazakhstan,2018,26157.66,Central and Eastern Europe,5.79,63.43,22.06
+Kenya,2018,4443.18,Sub-Saharan Africa,4.41,97.38,14.37
+Kosovo,2018,11013.40,Central and Eastern Europe,5.66,0.00,0.00
+Kuwait,2018,51690.57,Middle East and Northern Africa,6.08,55.89,25.04
+Latvia,2018,30877.04,Central and Eastern Europe,5.93,44.89,31.18
+Lebanon,2018,16054.36,Middle East and Northern Africa,5.35,86.81,16.12
+Lesotho,2018,2677.44,Sub-Saharan Africa,3.80,80.13,17.47
+Liberia,2018,1581.04,Sub-Saharan Africa,3.49,92.56,15.12
+Libya,2018,15378.57,Middle East and Northern Africa,5.56,94.60,14.79
+Lithuania,2018,36376.19,Central and Eastern Europe,5.95,39.40,35.52
+Luxembourg,2018,116965.59,Western Europe,6.91,20.75,67.44
+Madagascar,2018,1630.19,Sub-Saharan Africa,3.77,83.57,16.75
+Malawi,2018,1532.67,Sub-Saharan Africa,3.58,85.48,16.37
+Malaysia,2018,28239.50,Southeastern Asia,6.32,63.59,22.01
+Mali,2018,2338.53,Sub-Saharan Africa,4.44,93.58,14.96
+Malta,2018,44219.00,Western Europe,6.62,36.20,38.66
+Mauritania,2018,5318.09,Sub-Saharan Africa,4.35,92.15,15.19
+Mauritius,2018,22741.35,Sub-Saharan Africa,5.89,40.49,34.57
+Mexico,2018,20096.16,Latin America and Caribbean,6.48,71.51,19.57
+Moldova,2018,12659.98,Central and Eastern Europe,5.64,69.54,20.13
+Mongolia,2018,12317.44,Eastern Asia,5.12,54.87,25.51
+Montenegro,2018,21489.23,Central and Eastern Europe,5.34,55.33,25.29
+Morocco,2018,7625.74,Middle East and Northern Africa,5.25,74.00,18.91
+Mozambique,2018,1320.70,Sub-Saharan Africa,4.41,88.65,15.79
+Myanmar,2018,4575.13,Southeastern Asia,4.30,96.09,14.56
+Nepal,2018,3864.32,Southern Asia,4.88,87.87,15.93
+Netherlands,2018,57826.63,Western Europe,7.44,26.16,53.49
+New Zealand,2018,42575.44,Oceania,7.32,20.88,67.02
+Nicaragua,2018,5867.24,Latin America and Caribbean,6.14,75.32,18.58
+Niger,2018,1229.22,Sub-Saharan Africa,4.16,96.15,14.56
+Nigeria,2018,5278.85,Sub-Saharan Africa,5.15,99.90,14.01
+Norway,2018,69808.33,Western Europe,7.59,18.25,76.67
+Oman,2018,33377.28,Middle East and Northern Africa,0.00,52.64,26.59
+Pakistan,2018,4853.27,Southern Asia,5.47,96.33,14.53
+Panama,2018,31784.31,Latin America and Caribbean,6.43,49.48,28.29
+Paraguay,2018,13135.70,Latin America and Caribbean,5.68,69.75,20.07
+Peru,2018,13088.30,Latin America and Caribbean,5.66,70.07,19.97
+Philippines,2018,8720.61,Southeastern Asia,5.52,85.49,16.37
+Poland,2018,31953.04,Central and Eastern Europe,6.12,41.46,33.76
+Portugal,2018,34928.54,Western Europe,5.41,27.27,51.33
+Qatar,2018,93154.23,Middle East and Northern Africa,6.37,48.06,29.12
+Romania,2018,29309.21,Central and Eastern Europe,5.94,49.36,28.36
+Rwanda,2018,2138.90,Sub-Saharan Africa,3.40,89.28,15.67
+Saudi Arabia,2018,48735.46,Middle East and Northern Africa,6.37,70.23,19.93
+Senegal,2018,3388.95,Sub-Saharan Africa,4.63,79.62,17.58
+Serbia,2018,17698.05,Central and Eastern Europe,5.39,68.06,20.57
+Sierra Leone,2018,1694.33,Sub-Saharan Africa,4.57,89.08,15.71
+Singapore,2018,100581.16,Southeastern Asia,6.34,30.42,46.02
+Slovenia,2018,38961.54,Central and Eastern Europe,5.94,30.33,46.15
+South Africa,2018,14209.09,Sub-Saharan Africa,4.72,72.90,19.20
+Republic of Korea,2018,43026.30,Eastern Asia,5.87,35.73,39.17
+Spain,2018,40696.39,Western Europe,6.31,41.38,33.83
+Sri Lanka,2018,13169.09,Southern Asia,4.47,84.89,16.49
+Sudan,2018,4474.68,Sub-Saharan Africa,4.13,108.66,12.88
+Suriname,2018,19461.98,Latin America and Caribbean,0.00,64.01,21.87
+Sweden,2018,53521.63,Western Europe,7.31,20.81,67.24
+Switzerland,2018,71660.21,Western Europe,7.48,19.20,72.88
+Tajikistan,2018,3497.32,Central and Eastern Europe,5.19,79.50,17.60
+Tanzania,2018,2652.39,Sub-Saharan Africa,3.30,79.38,17.63
+Thailand,2018,18530.21,Southeastern Asia,6.07,74.98,18.67
+Togo,2018,2110.83,Sub-Saharan Africa,3.99,85.15,16.43
+Trinidad and Tobago,2018,26880.64,Latin America and Caribbean,0.00,54.60,25.63
+Tunisia,2018,11658.73,Middle East and Northern Africa,4.59,72.07,19.42
+Turkey,2018,27960.98,Middle East and Northern Africa,5.48,82.21,17.02
+Turkmenistan,2018,15201.78,Central and Eastern Europe,5.63,72.62,19.27
+Uganda,2018,2175.81,Sub-Saharan Africa,4.16,95.14,14.71
+Ukraine,2018,12633.13,Central and Eastern Europe,4.10,72.56,19.29
+United Arab Emirates,2018,68576.12,Middle East and Northern Africa,6.77,42.82,32.68
+United Kingdom,2018,47573.49,Western Europe,7.19,34.29,40.81
+United States,2018,63064.42,North America,6.88,37.70,37.13
+Uruguay,2018,23588.15,Latin America and Caribbean,6.37,35.44,39.49
+Uzbekistan,2018,7252.99,Central and Eastern Europe,6.09,79.10,17.69
+Venezuela,2018,17527.75,Latin America and Caribbean,4.80,86.20,16.24
+Vietnam,2018,7768.08,Southeastern Asia,5.10,68.39,20.46
+Zambia,2018,3606.10,Sub-Saharan Africa,4.37,87.22,16.05
+Zimbabwe,2018,4017.22,Sub-Saharan Africa,3.69,102.29,13.68
+Afghanistan,2019,2152.37,Southern Asia,3.20,105.00,13.33
+Albania,2019,14012.98,Central and Eastern Europe,4.71,58.90,23.76
+Algeria,2019,12009.25,Middle East and Northern Africa,5.21,75.40,18.56
+Angola,2019,6952.42,Sub-Saharan Africa,0.00,87.80,15.94
+Argentina,2019,22999.28,Latin America and Caribbean,6.08,46.00,30.43
+Armenia,2019,14231.18,Central and Eastern Europe,4.55,66.70,20.98
+Australia,2019,51748.40,Oceania,7.22,19.70,71.06
+Austria,2019,58076.35,Western Europe,7.24,25.00,56.00
+Azerbaijan,2019,15052.79,Central and Eastern Europe,5.20,73.20,19.12
+Bahrain,2019,47228.10,Middle East and Northern Africa,6.19,63.80,21.94
+Bangladesh,2019,4954.76,Southern Asia,4.45,87.70,15.96
+Belarus,2019,20094.53,Central and Eastern Europe,5.32,68.20,20.52
+Belgium,2019,54269.51,Western Europe,6.92,28.60,48.95
+Benin,2019,3426.33,Sub-Saharan Africa,4.88,73.60,19.02
+Bhutan,2019,12366.53,Southern Asia,5.08,72.00,19.44
+Bolivia,2019,9093.43,Latin America and Caribbean,5.77,72.90,19.20
+Bosnia and Herzegovina,2019,15728.18,Central and Eastern Europe,5.38,71.30,19.63
+Botswana,2019,17039.26,Sub-Saharan Africa,3.48,59.50,23.52
+Brazil,2019,15388.23,Latin America and Caribbean,6.30,71.80,19.49
+Bulgaria,2019,24523.79,Central and Eastern Europe,5.01,50.60,27.66
+Burkina Faso,2019,2267.51,Sub-Saharan Africa,4.58,83.90,16.68
+Burundi,2019,783.45,Sub-Saharan Africa,3.77,98.20,14.25
+Cambodia,2019,4574.40,Southeastern Asia,4.70,82.50,16.96
+Cameroon,2019,3901.14,Sub-Saharan Africa,5.04,97.00,14.43
+Canada,2019,49309.50,North America,7.27,20.00,70.00
+Central African Republic,2019,985.11,Sub-Saharan Africa,3.08,108.90,12.85
+Chad,2019,1646.43,Sub-Saharan Africa,4.35,108.50,12.90
+Chile,2019,25395.50,Latin America and Caribbean,6.44,38.90,35.98
+China,2019,16653.34,Eastern Asia,5.19,71.10,19.69
+Colombia,2019,15688.63,Latin America and Caribbean,6.12,75.70,18.49
+Comoros,2019,3188.18,Sub-Saharan Africa,3.97,81.70,17.13
+Republic of the Congo,2019,3987.49,Sub-Saharan Africa,4.81,92.50,15.13
+Democratic Republic of the Congo,2019,1144.38,Sub-Saharan Africa,4.41,110.20,12.70
+Costa Rica,2019,22511.30,Latin America and Caribbean,7.16,42.00,33.33
+Croatia,2019,30576.62,Central and Eastern Europe,5.43,47.50,29.47
+Cyprus,2019,42384.24,Western Europe,6.04,57.80,24.22
+Czech Republic,2019,42847.00,Central and Eastern Europe,6.85,37.60,37.23
+Denmark,2019,58700.97,Western Europe,7.60,19.50,71.79
+Djibouti,2019,5768.83,Sub-Saharan Africa,0.00,85.10,16.45
+Dominican Republic,2019,19191.58,Latin America and Caribbean,5.42,66.20,21.14
+Ecuador,2019,11851.47,Latin America and Caribbean,6.02,71.20,19.66
+Egypt,2019,12260.72,Middle East and Northern Africa,4.16,88.40,15.83
+El Salvador,2019,9147.26,Latin America and Caribbean,6.25,69.80,20.05
+Estonia,2019,37850.07,Central and Eastern Europe,5.89,40.80,34.31
+Ethiopia,2019,2315.35,Sub-Saharan Africa,4.28,94.20,14.86
+Finland,2019,50321.54,Western Europe,7.76,16.90,82.84
+France,2019,49072.36,Western Europe,6.59,32.00,43.75
+Gabon,2019,15577.92,Sub-Saharan Africa,4.79,70.50,19.85
+Georgia,2019,15623.15,Central and Eastern Europe,4.51,72.00,19.44
+Germany,2019,55652.89,Western Europe,6.98,24.70,56.68
+Ghana,2019,5774.33,Sub-Saharan Africa,4.99,65.90,21.24
+Greece,2019,30356.27,Western Europe,5.28,53.90,25.97
+Guatemala,2019,9019.26,Latin America and Caribbean,6.43,81.40,17.19
+Guinea,2019,2675.59,Sub-Saharan Africa,4.53,99.40,14.08
+Haiti,2019,3203.30,Latin America and Caribbean,3.59,99.30,14.09
+Honduras,2019,5978.76,Latin America and Caribbean,5.86,77.80,17.99
+Hungary,2019,33514.94,Central and Eastern Europe,5.75,49.60,28.22
+Iceland,2019,58290.10,Western Europe,7.49,19.80,70.70
+India,2019,6997.86,Southern Asia,4.01,74.40,18.81
+Indonesia,2019,12311.50,Southeastern Asia,5.19,70.40,19.88
+Iran,2019,12913.16,Middle East and Northern Africa,4.54,83.00,16.86
+Iraq,2019,11398.04,Middle East and Northern Africa,4.43,99.10,14.12
+Ireland,2019,87379.69,Western Europe,7.02,20.60,67.96
+Israel,2019,40004.03,Middle East and Northern Africa,7.13,76.50,18.30
+Italy,2019,44334.20,Western Europe,6.22,43.80,31.96
+Jamaica,2019,10190.47,Latin America and Caribbean,5.89,61.20,22.87
+Japan,2019,42616.57,Eastern Asia,5.88,34.30,40.81
+Jordan,2019,10497.30,Middle East and Northern Africa,4.90,75.90,18.44
+Kazakhstan,2019,27466.22,Central and Eastern Europe,5.80,61.60,22.72
+Kenya,2019,4641.08,Sub-Saharan Africa,4.50,93.50,14.97
+Kosovo,2019,11797.12,Central and Eastern Europe,6.10,0.00,0.00
+Kuwait,2019,51962.05,Middle East and Northern Africa,6.02,53.20,26.31
+Latvia,2019,31883.26,Central and Eastern Europe,5.94,43.90,31.89
+Lebanon,2019,15179.58,Middle East and Northern Africa,5.19,85.00,16.47
+Lesotho,2019,2693.20,Sub-Saharan Africa,3.80,79.70,17.56
+Liberia,2019,1531.92,Sub-Saharan Africa,3.97,90.20,15.52
+Libya,2019,15815.88,Middle East and Northern Africa,5.52,92.20,15.18
+Lithuania,2019,38540.78,Central and Eastern Europe,6.14,38.10,36.74
+Luxembourg,2019,117341.92,Western Europe,7.09,20.40,68.62
+Madagascar,2019,1687.07,Sub-Saharan Africa,3.93,80.90,17.30
+Malawi,2019,1602.15,Sub-Saharan Africa,3.41,83.30,16.80
+Malaysia,2019,29623.41,Southeastern Asia,5.33,60.50,23.14
+Mali,2019,2419.89,Sub-Saharan Africa,4.39,94.50,14.81
+Malta,2019,45937.70,Western Europe,6.72,34.50,40.57
+Mauritania,2019,5570.00,Sub-Saharan Africa,4.49,90.10,15.53
+Mauritius,2019,23836.92,Sub-Saharan Africa,5.88,38.90,35.98
+Mexico,2019,19863.03,Latin America and Caribbean,6.59,69.70,20.08
+Moldova,2019,13577.41,Central and Eastern Europe,5.52,67.10,20.86
+Mongolia,2019,13014.11,Eastern Asia,5.28,54.10,25.87
+Montenegro,2019,23097.32,Central and Eastern Europe,5.52,55.30,25.31
+Morocco,2019,7865.91,Middle East and Northern Africa,5.20,73.00,19.17
+Mozambique,2019,1335.99,Sub-Saharan Africa,4.46,88.70,15.78
+Myanmar,2019,4940.15,Southeastern Asia,4.36,94.30,14.84
+Nepal,2019,4119.92,Southern Asia,4.91,84.70,16.52
+Netherlands,2019,59004.32,Western Europe,7.48,24.80,56.45
+New Zealand,2019,45437.89,Oceania,7.30,20.10,69.65
+Nicaragua,2019,5682.22,Latin America and Caribbean,6.10,78.10,17.92
+Niger,2019,1276.15,Sub-Saharan Africa,4.62,96.20,14.55
+Nigeria,2019,5352.68,Sub-Saharan Africa,5.26,98.50,14.21
+Norway,2019,66799.16,Western Europe,7.55,18.00,77.77
+Oman,2019,32607.02,Middle East and Northern Africa,0.00,50.00,28.00
+Pakistan,2019,4896.39,Southern Asia,5.65,94.20,14.86
+Panama,2019,32769.87,Latin America and Caribbean,6.32,47.00,29.78
+Paraguay,2019,13149.04,Latin America and Caribbean,5.74,67.00,20.89
+Peru,2019,13397.27,Latin America and Caribbean,5.69,68.20,20.52
+Philippines,2019,9291.73,Southeastern Asia,5.63,83.10,16.84
+Poland,2019,33797.77,Central and Eastern Europe,6.18,42.80,32.71
+Portugal,2019,36172.07,Western Europe,5.69,25.30,55.33
+Qatar,2019,93771.13,Middle East and Northern Africa,6.37,45.40,30.83
+Romania,2019,31901.43,Central and Eastern Europe,6.07,47.80,29.28
+Rwanda,2019,2321.72,Sub-Saharan Africa,3.33,87.50,16.00
+Saudi Arabia,2019,48948.17,Middle East and Northern Africa,6.37,70.40,19.88
+Senegal,2019,3503.62,Sub-Saharan Africa,4.68,77.20,18.13
+Serbia,2019,18842.53,Central and Eastern Europe,5.60,68.00,20.58
+Sierra Leone,2019,1777.30,Sub-Saharan Africa,4.37,86.80,16.12
+Singapore,2019,102573.40,Southeastern Asia,6.26,28.10,49.82
+Slovenia,2019,40670.88,Central and Eastern Europe,6.11,28.00,50.00
+South Africa,2019,14289.76,Sub-Saharan Africa,4.72,71.10,19.69
+Republic of Korea,2019,43044.73,Eastern Asia,5.89,33.70,41.54
+Spain,2019,41696.31,Western Europe,6.35,40.70,34.39
+Sri Lanka,2019,13622.86,Southern Asia,4.36,84.00,16.66
+Sudan,2019,4350.07,Sub-Saharan Africa,4.13,108.00,12.96
+Suriname,2019,19841.81,Latin America and Caribbean,0.00,61.90,22.61
+Sweden,2019,54598.78,Western Europe,7.34,20.30,68.96
+Switzerland,2019,72033.93,Western Europe,7.48,18.70,74.86
+Tajikistan,2019,3732.87,Central and Eastern Europe,5.46,77.70,18.01
+Tanzania,2019,2773.16,Sub-Saharan Africa,3.23,80.10,17.47
+Thailand,2019,19233.87,Southeastern Asia,6.00,73.10,19.15
+Togo,2019,2211.63,Sub-Saharan Africa,4.08,87.40,16.01
+Trinidad and Tobago,2019,26920.14,Latin America and Caribbean,0.00,53.00,26.41
+Tunisia,2019,11899.96,Middle East and Northern Africa,4.46,70.10,19.97
+Turkey,2019,26867.47,Middle East and Northern Africa,5.37,80.30,17.43
+Turkmenistan,2019,16195.54,Central and Eastern Europe,5.24,71.40,19.60
+Uganda,2019,2275.21,Sub-Saharan Africa,4.18,95.30,14.69
+Ukraine,2019,13346.48,Central and Eastern Europe,4.33,71.00,19.71
+United Arab Emirates,2019,71150.54,Middle East and Northern Africa,6.82,40.10,34.91
+United Kingdom,2019,49041.46,Western Europe,7.05,36.70,38.14
+United States,2019,65279.53,North America,6.89,38.00,36.84
+Uruguay,2019,24006.79,Latin America and Caribbean,6.29,34.00,41.17
+Uzbekistan,2019,7658.90,Central and Eastern Europe,6.17,75.70,18.49
+Venezuela,2019,17527.75,Latin America and Caribbean,4.70,89.30,15.67
+Vietnam,2019,8381.24,Southeastern Asia,5.17,66.10,21.18
+Zambia,2019,3617.20,Sub-Saharan Africa,4.10,85.70,16.33
+Zimbabwe,2019,3783.55,Sub-Saharan Africa,3.66,99.50,14.07
+Afghanistan,2020,2078.65,Southern Asia,2.56,102.90,13.60
+Albania,2020,13439.67,Central and Eastern Europe,4.88,58.75,23.82
+Algeria,2020,11324.24,Middle East and Northern Africa,5.00,74.57,18.77
+Angola,2020,6445.43,Sub-Saharan Africa,0.00,87.32,16.03
+Argentina,2020,20770.73,Latin America and Caribbean,5.97,46.08,30.37
+Armenia,2020,13312.11,Central and Eastern Europe,4.67,64.20,21.80
+Australia,2020,53329.81,Oceania,7.22,19.74,70.89
+Austria,2020,55683.84,Western Europe,7.29,24.10,58.07
+Azerbaijan,2020,14479.71,Central and Eastern Europe,5.16,71.28,19.64
+Bahrain,2020,43755.86,Middle East and Northern Africa,6.22,63.88,21.91
+Bangladesh,2020,5138.65,Southern Asia,4.83,85.70,16.33
+Belarus,2020,20239.20,Central and Eastern Europe,5.54,65.75,21.29
+Belgium,2020,53034.96,Western Europe,6.86,27.09,51.66
+Benin,2020,3505.42,Sub-Saharan Africa,5.21,72.54,19.29
+Bhutan,2020,11130.22,Southern Asia,0.00,69.50,20.14
+Bolivia,2020,8275.49,Latin America and Caribbean,5.74,74.96,18.67
+Bosnia and Herzegovina,2020,15623.10,Central and Eastern Europe,5.67,70.22,19.93
+Botswana,2020,15458.48,Sub-Saharan Africa,3.47,57.07,24.53
+Brazil,2020,14835.41,Latin America and Caribbean,6.37,72.99,19.17
+Bulgaria,2020,24613.84,Central and Eastern Europe,5.10,49.17,28.47
+Burkina Faso,2020,2274.02,Sub-Saharan Africa,4.76,85.92,16.29
+Burundi,2020,771.16,Sub-Saharan Africa,3.77,97.87,14.30
+Cambodia,2020,4421.48,Southeastern Asia,4.84,80.30,17.43
+Cameroon,2020,3867.52,Sub-Saharan Africa,5.08,97.85,14.30
+Canada,2020,46611.31,North America,7.23,18.66,74.99
+Central African Republic,2020,987.64,Sub-Saharan Africa,3.47,107.48,13.02
+Chad,2020,1602.36,Sub-Saharan Africa,4.42,106.43,13.15
+Chile,2020,25110.16,Latin America and Caribbean,6.22,42.51,32.93
+China,2020,17210.76,Eastern Asia,5.12,69.85,20.04
+Colombia,2020,14931.05,Latin America and Caribbean,6.16,76.61,18.27
+Comoros,2020,3153.13,Sub-Saharan Africa,4.28,81.24,17.23
+Republic of the Congo,2020,3622.32,Sub-Saharan Africa,5.19,92.06,15.20
+Democratic Republic of the Congo,2020,1141.82,Sub-Saharan Africa,4.31,109.39,12.79
+Costa Rica,2020,22132.47,Latin America and Caribbean,7.12,40.18,34.83
+Croatia,2020,28841.71,Central and Eastern Europe,5.50,46.09,30.37
+Cyprus,2020,39452.87,Western Europe,6.15,56.05,24.97
+Czech Republic,2020,41603.99,Central and Eastern Europe,6.91,35.74,39.17
+Denmark,2020,60229.91,Western Europe,7.64,17.21,81.33
+Djibouti,2020,5781.76,Sub-Saharan Africa,0.00,82.72,16.92
+Dominican Republic,2020,17935.66,Latin America and Caribbean,5.68,64.35,21.75
+Ecuador,2020,10895.77,Latin America and Caribbean,5.92,69.40,20.17
+Egypt,2020,12607.00,Middle East and Northern Africa,4.15,86.00,16.27
+El Salvador,2020,8420.49,Latin America and Caribbean,6.34,68.89,20.32
+Estonia,2020,37600.59,Central and Eastern Europe,6.02,38.52,36.34
+Ethiopia,2020,2422.81,Sub-Saharan Africa,4.18,94.59,14.79
+Finland,2020,50506.29,Western Europe,7.80,14.62,95.71
+France,2020,46983.04,Western Europe,6.66,30.48,45.93
+Gabon,2020,15106.37,Sub-Saharan Africa,4.82,69.08,20.26
+Georgia,2020,14766.98,Central and Eastern Europe,4.67,71.15,19.67
+Germany,2020,54792.06,Western Europe,7.07,23.18,60.37
+Ghana,2020,5744.43,Sub-Saharan Africa,5.14,64.15,21.82
+Greece,2020,27909.54,Western Europe,5.51,52.14,26.84
+Guatemala,2020,8853.67,Latin America and Caribbean,6.39,79.17,17.68
+Guinea,2020,2817.32,Sub-Saharan Africa,4.94,97.16,14.40
+Haiti,2020,3095.19,Latin America and Caribbean,3.72,97.67,14.33
+Honduras,2020,5420.23,Latin America and Caribbean,5.95,76.78,18.23
+Hungary,2020,33077.23,Central and Eastern Europe,6.00,47.62,29.39
+Iceland,2020,53622.25,Western Europe,7.50,17.80,78.65
+India,2020,6503.95,Southern Asia,3.57,75.30,18.59
+Indonesia,2020,12072.74,Southeastern Asia,5.28,67.84,20.63
+Iran,2020,13338.01,Middle East and Northern Africa,4.67,83.38,16.78
+Iraq,2020,9506.73,Middle East and Northern Africa,4.78,95.94,14.59
+Ireland,2020,93180.95,Western Europe,7.09,19.93,70.21
+Israel,2020,39481.57,Middle East and Northern Africa,7.12,75.12,18.63
+Italy,2020,41828.55,Western Europe,6.38,42.35,33.05
+Jamaica,2020,9241.58,Latin America and Caribbean,5.89,60.02,23.32
+Japan,2020,42390.38,Eastern Asia,5.87,32.33,43.30
+Jordan,2020,10355.01,Middle East and Northern Africa,4.63,75.42,18.56
+Kazakhstan,2020,26754.38,Central and Eastern Europe,6.05,59.77,23.42
+Kenya,2020,4577.91,Sub-Saharan Africa,4.58,90.31,15.50
+Kosovo,2020,11387.65,Central and Eastern Europe,6.32,0.00,0.00
+Kuwait,2020,47306.99,Middle East and Northern Africa,6.10,50.89,27.50
+Latvia,2020,31464.48,Central and Eastern Europe,5.95,42.31,33.08
+Lebanon,2020,12118.57,Middle East and Northern Africa,4.77,84.72,16.52
+Lesotho,2020,2444.08,Sub-Saharan Africa,3.65,78.29,17.88
+Liberia,2020,1468.36,Sub-Saharan Africa,4.55,90.04,15.54
+Libya,2020,10846.29,Middle East and Northern Africa,5.48,95.19,14.70
+Lithuania,2020,38883.12,Central and Eastern Europe,6.21,36.47,38.38
+Luxembourg,2020,117500.21,Western Europe,7.23,18.84,74.27
+Madagascar,2020,1544.16,Sub-Saharan Africa,4.16,79.53,17.60
+Malawi,2020,1591.61,Sub-Saharan Africa,3.53,84.01,16.66
+Malaysia,2020,27923.69,Southeastern Asia,5.38,57.56,24.32
+Mali,2020,2347.99,Sub-Saharan Africa,4.72,96.04,14.57
+Malta,2020,41740.77,Western Europe,6.77,33.59,41.67
+Mauritania,2020,5390.09,Sub-Saharan Africa,4.37,88.74,15.77
+Mauritius,2020,20530.51,Sub-Saharan Africa,6.10,37.18,37.64
+Mexico,2020,18444.07,Latin America and Caribbean,6.46,67.20,20.83
+Moldova,2020,13000.40,Central and Eastern Europe,5.60,65.97,21.21
+Mongolia,2020,12366.95,Eastern Asia,5.45,51.93,26.95
+Montenegro,2020,20029.91,Central and Eastern Europe,5.54,55.46,25.24
+Morocco,2020,7369.49,Middle East and Northern Africa,5.09,71.22,19.65
+Mozambique,2020,1297.40,Sub-Saharan Africa,4.62,91.69,15.26
+Myanmar,2020,5123.83,Southeastern Asia,4.30,94.00,14.89
+Nepal,2020,4008.51,Southern Asia,5.13,82.56,16.95
+Netherlands,2020,59268.14,Western Europe,7.44,22.85,61.24
+New Zealand,2020,44491.32,Oceania,7.30,17.87,78.30
+Nicaragua,2020,5569.72,Latin America and Caribbean,6.13,77.07,18.16
+Niger,2020,1288.26,Sub-Saharan Africa,4.91,95.31,14.68
+Nigeria,2020,5186.41,Sub-Saharan Africa,4.72,97.26,14.39
+Norway,2020,62644.85,Western Europe,7.48,16.19,86.46
+Oman,2020,31120.30,Middle East and Northern Africa,0.00,47.99,29.17
+Pakistan,2020,4812.89,Southern Asia,5.69,92.07,15.20
+Panama,2020,26782.48,Latin America and Caribbean,6.30,45.98,30.44
+Paraguay,2020,13069.18,Latin America and Caribbean,5.69,65.17,21.47
+Peru,2020,11878.52,Latin America and Caribbean,5.79,67.62,20.70
+Philippines,2020,8389.85,Southeastern Asia,6.00,81.00,17.28
+Poland,2020,34240.25,Central and Eastern Europe,6.18,41.02,34.12
+Portugal,2020,34148.95,Western Europe,5.91,23.51,59.53
+Qatar,2020,89968.77,Middle East and Northern Africa,0.00,43.73,32.00
+Romania,2020,32116.48,Central and Eastern Europe,6.12,46.65,30.00
+Rwanda,2020,2213.83,Sub-Saharan Africa,3.31,86.02,16.27
+Saudi Arabia,2020,46759.66,Middle East and Northern Africa,6.40,68.80,20.34
+Senegal,2020,3502.82,Sub-Saharan Africa,4.98,74.56,18.77
+Serbia,2020,19107.20,Central and Eastern Europe,5.77,66.11,21.17
+Sierra Leone,2020,1727.11,Sub-Saharan Africa,3.92,84.35,16.59
+Singapore,2020,98520.03,Southeastern Asia,6.37,26.32,53.17
+Slovenia,2020,39768.63,Central and Eastern Europe,6.36,25.84,54.16
+South Africa,2020,13360.57,Sub-Saharan Africa,4.81,70.10,19.96
+Republic of Korea,2020,45274.46,Eastern Asia,5.87,32.01,43.72
+Spain,2020,37765.80,Western Europe,6.40,40.35,34.69
+Sri Lanka,2020,13224.61,Southern Asia,4.32,81.80,17.11
+Sudan,2020,4142.45,Sub-Saharan Africa,4.13,104.76,13.36
+Suriname,2020,16734.75,Latin America and Caribbean,0.00,60.12,23.28
+Sweden,2020,55037.72,Western Europe,7.35,18.20,76.88
+Switzerland,2020,71742.52,Western Europe,7.56,17.09,81.89
+Tajikistan,2020,3858.20,Central and Eastern Europe,5.55,75.50,18.54
+Tanzania,2020,2779.91,Sub-Saharan Africa,3.47,78.14,17.91
+Thailand,2020,18232.80,Southeastern Asia,5.99,70.81,19.77
+Togo,2020,2223.50,Sub-Saharan Africa,4.18,85.84,16.30
+Trinidad and Tobago,2020,25023.70,Latin America and Caribbean,6.19,51.94,26.95
+Tunisia,2020,10822.85,Middle East and Northern Africa,4.39,68.12,20.55
+Turkey,2020,27235.43,Middle East and Northern Africa,5.13,79.14,17.68
+Turkmenistan,2020,,Central and Eastern Europe,5.11,69.05,20.27
+Uganda,2020,2294.34,Sub-Saharan Africa,4.43,92.77,15.09
+Ukraine,2020,13054.76,Central and Eastern Europe,4.56,69.00,20.28
+United Arab Emirates,2020,66771.50,Middle East and Northern Africa,6.79,38.09,36.74
+United Kingdom,2020,46482.86,Western Europe,7.16,38.26,36.59
+United States,2020,63593.44,North America,6.94,38.27,36.57
+Uruguay,2020,22793.69,Latin America and Caribbean,6.44,33.40,41.90
+Uzbekistan,2020,7734.02,Central and Eastern Europe,6.25,73.10,19.15
+Venezuela,2020,17527.75,Latin America and Caribbean,5.05,91.15,15.35
+Vietnam,2020,8650.13,Southeastern Asia,5.35,63.88,21.91
+Zambia,2020,3457.61,Sub-Saharan Africa,3.75,84.47,16.57
+Zimbabwe,2020,3537.35,Sub-Saharan Africa,3.29,99.22,14.10
+Antarctica,2015,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Bahamas,2015,33855.50,Latin America and Caribbean,0.00,51.50,27.18
+Belize,2015,7288.74,Latin America and Caribbean,0.00,65.30,21.43
+Brunei Darussalam,2015,62540.62,Southeastern Asia,0.00,63.00,22.22
+Côte d'Ivoire,2015,4652.88,Sub-Saharan Africa,0.00,100.10,13.98
+Cuba,2015,0.00,Latin America and Caribbean,0.00,67.40,20.77
+Dem. Rep. Korea,2015,0.00,Eastern Asia,0.00,93.80,14.92
+Equatorial Guinea,2015,24042.35,Sub-Saharan Africa,0.00,84.80,16.50
+Eritrea,2015,0.00,Sub-Saharan Africa,0.00,96.90,14.44
+Falkland Islands / Malvinas,2015,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Fiji,2015,12412.35,Oceania,0.00,76.70,18.25
+French Southern and Antarctic Lands,2015,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Greenland,2015,49045.34,Central and Eastern Europe,7.52,21.40,65.42
+Guinea-Bissau,2015,1597.20,Sub-Saharan Africa,0.00,99.90,14.01
+Guyana,2015,0.00,Latin America and Caribbean,0.00,70.50,19.85
+Kingdom of eSwatini,2015,8813.00,Sub-Saharan Africa,4.86,86.20,16.24
+Kyrgyzstan,2015,4214.82,Central and Eastern Europe,5.28,82.20,17.03
+Lao PDR,2015,6168.48,Southeastern Asia,4.87,84.40,16.58
+Namibia,2015,10633.29,Middle East and Northern Africa,4.57,70.80,19.77
+New Caledonia,2015,0.00,Central and Eastern Europe,0.00,0.00,0.00
+North Macedonia,2015,13888.29,Central and Eastern Europe,5.00,64.50,21.70
+Northern Cyprus,2015,31815.27,Middle East and Northern Africa,5.69,0.00,0.00
+Palestine,2015,0.00,Middle East and Northern Africa,4.71,0.00,0.00
+Papua New Guinea,2015,3967.44,Southeastern Asia,0.00,83.40,16.78
+Puerto Rico,2015,34016.02,Latin America and Caribbean,0.00,0.00,0.00
+Russian Federation,2015,24085.32,Central and Eastern Europe,5.71,80.00,17.50
+Slovakia,2015,29964.88,Central and Eastern Europe,5.99,42.60,32.86
+Solomon Islands,2015,2446.88,Oceania,0.00,85.90,16.29
+Somalia,2015,0.00,Middle East and Northern Africa,5.05,114.00,12.28
+Somaliland,2015,0.00,Middle East and Northern Africa,5.05,114.00,12.28
+South Sudan,2015,0.00,Middle East and Northern Africa,4.55,114.50,12.22
+Syria,2015,0.00,Middle East and Northern Africa,3.00,107.80,12.98
+Taiwan,2015,68730.00,Eastern Asia,6.29,0.00,0.00
+The Gambia,2015,0.00,Sub-Saharan Africa,0.00,85.40,16.39
+Timor-Leste,2015,0.00,Southeastern Asia,0.00,90.50,15.46
+Vanuatu,2015,0.00,Oceania,0.00,0.00,0.00
+Western Sahara,2015,7024.96,Middle East and Northern Africa,5.01,74.60,18.76
+Yemen,2015,0.00,Middle East and Northern Africa,4.07,108.20,12.93
+Antarctica,2016,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Bahamas,2016,0.00,Latin America and Caribbean,0.00,51.60,27.13
+Belize,2016,0.00,Latin America and Caribbean,0.00,66.00,21.21
+Brunei Darussalam,2016,0.00,Southeastern Asia,0.00,62.00,22.58
+Côte d'Ivoire,2016,0.00,Sub-Saharan Africa,0.00,97.90,14.30
+Cuba,2016,0.00,Latin America and Caribbean,0.00,66.30,21.11
+Dem. Rep. Korea,2016,0.00,Eastern Asia,0.00,93.90,14.90
+Equatorial Guinea,2016,0.00,Sub-Saharan Africa,0.00,85.20,16.43
+Eritrea,2016,0.00,Sub-Saharan Africa,0.00,98.60,14.19
+Falkland Islands / Malvinas,2016,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Fiji,2016,0.00,Oceania,0.00,76.20,18.37
+French Southern and Antarctic Lands,2016,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Greenland,2016,51976.01,Central and Eastern Europe,7.52,21.50,65.11
+Guinea-Bissau,2016,0.00,Sub-Saharan Africa,0.00,99.80,14.02
+Guyana,2016,0.00,Latin America and Caribbean,0.00,70.90,19.74
+Kingdom of eSwatini,2016,0.00,Sub-Saharan Africa,0.00,87.60,15.98
+Kyrgyzstan,2016,0.00,Central and Eastern Europe,5.18,81.10,17.26
+Lao PDR,2016,0.00,Southeastern Asia,4.87,84.40,16.58
+Namibia,2016,0.00,Middle East and Northern Africa,4.57,71.10,19.69
+New Caledonia,2016,0.00,Central and Eastern Europe,0.00,0.00,0.00
+North Macedonia,2016,0.00,Central and Eastern Europe,5.12,67.00,20.89
+Northern Cyprus,2016,0.00,Middle East and Northern Africa,5.77,0.00,0.00
+Palestine,2016,0.00,Middle East and Northern Africa,4.75,0.00,0.00
+Papua New Guinea,2016,0.00,Southeastern Asia,0.00,86.20,16.24
+Puerto Rico,2016,0.00,Latin America and Caribbean,0.00,0.00,0.00
+Russian Federation,2016,24128.08,Central and Eastern Europe,5.85,81.00,17.28
+Slovakia,2016,0.00,Central and Eastern Europe,6.07,44.90,31.18
+Solomon Islands,2016,0.00,Oceania,0.00,85.30,16.41
+Somalia,2016,0.00,Middle East and Northern Africa,5.44,114.00,12.28
+Somaliland,2016,0.00,Middle East and Northern Africa,5.05,114.00,12.28
+South Sudan,2016,0.00,Middle East and Northern Africa,3.83,113.80,12.30
+Syria,2016,0.00,Middle East and Northern Africa,3.06,110.80,12.63
+Taiwan,2016,68730.00,Eastern Asia,6.37,0.00,0.00
+The Gambia,2016,0.00,Sub-Saharan Africa,0.00,86.80,16.12
+Timor-Leste,2016,0.00,Southeastern Asia,0.00,90.80,15.41
+Vanuatu,2016,0.00,Oceania,0.00,0.00,0.00
+Western Sahara,2016,7113.00,Middle East and Northern Africa,5.15,74.20,18.86
+Yemen,2016,0.00,Middle East and Northern Africa,3.72,111.50,12.55
+Antarctica,2017,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Bahamas,2017,0.00,Latin America and Caribbean,0.00,52.40,26.71
+Belize,2017,0.00,Latin America and Caribbean,0.00,65.50,21.37
+Brunei Darussalam,2017,0.00,Southeastern Asia,0.00,61.60,22.72
+Côte d'Ivoire,2017,0.00,Sub-Saharan Africa,0.00,96.50,14.50
+Cuba,2017,0.00,Latin America and Caribbean,0.00,64.60,21.67
+Dem. Rep. Korea,2017,0.00,Eastern Asia,0.00,93.30,15.00
+Equatorial Guinea,2017,0.00,Sub-Saharan Africa,0.00,85.00,16.47
+Eritrea,2017,0.00,Sub-Saharan Africa,0.00,98.10,14.27
+Falkland Islands / Malvinas,2017,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Fiji,2017,0.00,Oceania,0.00,76.90,18.20
+French Southern and Antarctic Lands,2017,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Greenland,2017,55356.68,Central and Eastern Europe,7.52,21.50,65.11
+Guinea-Bissau,2017,0.00,Sub-Saharan Africa,0.00,99.50,14.07
+Guyana,2017,0.00,Latin America and Caribbean,0.00,71.30,19.63
+Kingdom of eSwatini,2017,0.00,Sub-Saharan Africa,0.00,88.80,15.76
+Kyrgyzstan,2017,0.00,Central and Eastern Europe,5.00,80.30,17.43
+Lao PDR,2017,0.00,Southeastern Asia,4.62,82.40,16.99
+Namibia,2017,0.00,Middle East and Northern Africa,4.57,70.40,19.88
+New Caledonia,2017,0.00,Central and Eastern Europe,0.00,0.00,0.00
+North Macedonia,2017,0.00,Central and Eastern Europe,5.17,66.10,21.18
+Northern Cyprus,2017,0.00,Middle East and Northern Africa,5.80,0.00,0.00
+Palestine,2017,0.00,Middle East and Northern Africa,4.77,0.00,0.00
+Papua New Guinea,2017,0.00,Southeastern Asia,0.00,86.40,16.20
+Puerto Rico,2017,0.00,Latin America and Caribbean,0.00,0.00,0.00
+Russian Federation,2017,25926.44,Central and Eastern Europe,5.96,79.20,17.67
+Slovakia,2017,0.00,Central and Eastern Europe,6.09,44.30,31.60
+Solomon Islands,2017,0.00,Oceania,0.00,84.80,16.50
+Somalia,2017,0.00,Middle East and Northern Africa,5.15,113.40,12.34
+Somaliland,2017,0.00,Middle East and Northern Africa,5.15,113.40,12.34
+South Sudan,2017,0.00,Middle East and Northern Africa,3.59,113.90,12.29
+Syria,2017,0.00,Middle East and Northern Africa,3.46,110.60,12.65
+Taiwan,2017,68730.00,Eastern Asia,6.42,0.00,0.00
+The Gambia,2017,0.00,Sub-Saharan Africa,0.00,89.40,15.66
+Timor-Leste,2017,0.00,Southeastern Asia,0.00,90.50,15.46
+Vanuatu,2017,0.00,Oceania,0.00,0.00,0.00
+Western Sahara,2017,7312.06,Middle East and Northern Africa,5.24,74.90,18.69
+Yemen,2017,0.00,Middle East and Northern Africa,3.59,111.10,12.60
+Antarctica,2018,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Bahamas,2018,0.00,Latin America and Caribbean,0.00,49.99,28.00
+Belize,2018,0.00,Latin America and Caribbean,0.00,63.71,21.97
+Brunei Darussalam,2018,0.00,Southeastern Asia,0.00,59.80,23.40
+Côte d'Ivoire,2018,0.00,Sub-Saharan Africa,0.00,94.56,14.80
+Cuba,2018,0.00,Latin America and Caribbean,0.00,62.89,22.26
+Dem. Rep. Korea,2018,0.00,Eastern Asia,0.00,93.20,15.02
+Equatorial Guinea,2018,0.00,Sub-Saharan Africa,0.00,83.39,16.78
+Eritrea,2018,0.00,Sub-Saharan Africa,0.00,97.20,14.40
+Falkland Islands / Malvinas,2018,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Fiji,2018,0.00,Oceania,0.00,74.51,18.78
+French Southern and Antarctic Lands,2018,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Greenland,2018,57482.96,Central and Eastern Europe,7.55,19.78,70.76
+Guinea-Bissau,2018,0.00,Sub-Saharan Africa,0.00,98.09,14.27
+Guyana,2018,0.00,Latin America and Caribbean,0.00,70.35,19.89
+Kingdom of eSwatini,2018,0.00,Sub-Saharan Africa,0.00,87.54,15.99
+Kyrgyzstan,2018,0.00,Central and Eastern Europe,5.13,78.63,17.80
+Lao PDR,2018,0.00,Southeastern Asia,4.62,80.72,17.34
+Namibia,2018,0.00,Middle East and Northern Africa,4.44,68.81,20.34
+New Caledonia,2018,0.00,Central and Eastern Europe,0.00,0.00,0.00
+North Macedonia,2018,0.00,Central and Eastern Europe,5.18,64.79,21.60
+Northern Cyprus,2018,0.00,Middle East and Northern Africa,5.83,0.00,0.00
+Palestine,2018,0.00,Middle East and Northern Africa,4.74,0.00,0.00
+Papua New Guinea,2018,0.00,Southeastern Asia,0.00,84.77,16.51
+Puerto Rico,2018,0.00,Latin America and Caribbean,0.00,0.00,0.00
+Russian Federation,2018,28821.26,Central and Eastern Europe,5.81,77.16,18.14
+Slovakia,2018,0.00,Central and Eastern Europe,6.17,42.47,32.96
+Solomon Islands,2018,0.00,Oceania,0.00,83.10,16.84
+Somalia,2018,0.00,Middle East and Northern Africa,4.98,113.20,12.36
+Somaliland,2018,0.00,Middle East and Northern Africa,4.98,113.20,12.36
+South Sudan,2018,0.00,Middle East and Northern Africa,3.25,113.35,12.35
+Syria,2018,0.00,Middle East and Northern Africa,3.46,111.39,12.56
+Taiwan,2018,68730.00,Eastern Asia,6.44,0.00,0.00
+The Gambia,2018,0.00,Sub-Saharan Africa,0.00,87.06,16.08
+Timor-Leste,2018,0.00,Southeastern Asia,0.00,88.25,15.86
+Vanuatu,2018,0.00,Oceania,0.00,0.00,0.00
+Western Sahara,2018,7625.74,Middle East and Northern Africa,5.25,74.00,18.91
+Yemen,2018,0.00,Middle East and Northern Africa,3.35,112.67,12.42
+Antarctica,2019,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Bahamas,2019,0.00,Latin America and Caribbean,0.00,48.80,28.68
+Belize,2019,0.00,Latin America and Caribbean,0.00,62.50,22.40
+Brunei Darussalam,2019,0.00,Southeastern Asia,0.00,57.50,24.34
+Côte d'Ivoire,2019,0.00,Sub-Saharan Africa,0.00,92.10,15.20
+Cuba,2019,0.00,Latin America and Caribbean,0.00,60.80,23.02
+Dem. Rep. Korea,2019,0.00,Eastern Asia,0.00,92.70,15.10
+Equatorial Guinea,2019,0.00,Sub-Saharan Africa,0.00,82.60,16.94
+Eritrea,2019,0.00,Sub-Saharan Africa,0.00,96.40,14.52
+Falkland Islands / Malvinas,2019,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Fiji,2019,0.00,Oceania,0.00,71.70,19.52
+French Southern and Antarctic Lands,2019,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Greenland,2019,58700.97,Central and Eastern Europe,7.60,19.50,71.79
+Guinea-Bissau,2019,0.00,Sub-Saharan Africa,0.00,95.50,14.65
+Guyana,2019,0.00,Latin America and Caribbean,0.00,68.20,20.52
+Kingdom of eSwatini,2019,0.00,Sub-Saharan Africa,4.21,85.30,16.41
+Kyrgyzstan,2019,0.00,Central and Eastern Europe,5.26,76.20,18.37
+Lao PDR,2019,0.00,Southeastern Asia,4.79,78.70,17.78
+Namibia,2019,0.00,Middle East and Northern Africa,4.63,66.40,21.08
+New Caledonia,2019,0.00,Central and Eastern Europe,0.00,0.00,0.00
+North Macedonia,2019,0.00,Central and Eastern Europe,5.27,64.60,21.67
+Northern Cyprus,2019,0.00,Middle East and Northern Africa,5.71,0.00,0.00
+Palestine,2019,0.00,Middle East and Northern Africa,4.69,0.00,0.00
+Papua New Guinea,2019,0.00,Southeastern Asia,0.00,83.10,16.84
+Puerto Rico,2019,0.00,Latin America and Caribbean,0.00,0.00,0.00
+Russian Federation,2019,30067.74,Central and Eastern Europe,5.64,74.70,18.74
+Slovakia,2019,0.00,Central and Eastern Europe,6.19,40.50,34.56
+Solomon Islands,2019,0.00,Oceania,0.00,81.90,17.09
+Somalia,2019,0.00,Middle East and Northern Africa,4.66,112.30,12.46
+Somaliland,2019,0.00,Middle East and Northern Africa,4.66,112.30,12.46
+South Sudan,2019,0.00,Middle East and Northern Africa,2.85,112.20,12.47
+Syria,2019,0.00,Middle East and Northern Africa,3.46,111.50,12.55
+Taiwan,2019,68730.00,Eastern Asia,6.44,0.00,0.00
+The Gambia,2019,0.00,Sub-Saharan Africa,0.00,83.90,16.68
+Timor-Leste,2019,0.00,Southeastern Asia,0.00,85.50,16.37
+Vanuatu,2019,0.00,Oceania,0.00,0.00,0.00
+Western Sahara,2019,7865.91,Middle East and Northern Africa,5.20,73.00,19.17
+Yemen,2019,0.00,Middle East and Northern Africa,3.38,113.50,12.33
+Antarctica,2020,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Bahamas,2020,0.00,Latin America and Caribbean,0.00,49.86,28.07
+Belize,2020,0.00,Latin America and Caribbean,0.00,60.79,23.02
+Brunei Darussalam,2020,0.00,Southeastern Asia,0.00,56.60,24.73
+Côte d'Ivoire,2020,0.00,Sub-Saharan Africa,0.00,89.72,15.60
+Cuba,2020,0.00,Latin America and Caribbean,0.00,59.22,23.63
+Dem. Rep. Korea,2020,0.00,Eastern Asia,0.00,90.21,15.51
+Equatorial Guinea,2020,0.00,Sub-Saharan Africa,0.00,83.01,16.86
+Eritrea,2020,0.00,Sub-Saharan Africa,0.00,95.84,14.60
+Falkland Islands / Malvinas,2020,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Fiji,2020,0.00,Oceania,0.00,69.85,20.04
+French Southern and Antarctic Lands,2020,0.00,Central and Eastern Europe,0.00,0.00,0.00
+Greenland,2020,60229.91,Central and Eastern Europe,7.64,17.21,81.33
+Guinea-Bissau,2020,0.00,Sub-Saharan Africa,0.00,92.90,15.06
+Guyana,2020,0.00,Latin America and Caribbean,0.00,65.95,21.22
+Kingdom of eSwatini,2020,0.00,Sub-Saharan Africa,4.30,83.00,16.86
+Kyrgyzstan,2020,0.00,Central and Eastern Europe,5.54,73.92,18.93
+Lao PDR,2020,0.00,Southeastern Asia,4.88,76.86,18.21
+Namibia,2020,0.00,Middle East and Northern Africa,4.57,65.09,21.50
+New Caledonia,2020,0.00,Central and Eastern Europe,0.00,0.00,0.00
+North Macedonia,2020,0.00,Central and Eastern Europe,5.15,62.13,22.53
+Northern Cyprus,2020,0.00,Middle East and Northern Africa,5.53,0.00,0.00
+Palestine,2020,0.00,Middle East and Northern Africa,4.55,0.00,0.00
+Papua New Guinea,2020,0.00,Southeastern Asia,0.00,82.29,17.01
+Puerto Rico,2020,0.00,Latin America and Caribbean,0.00,0.00,0.00
+Russian Federation,2020,29916.01,Central and Eastern Europe,5.54,62.13,22.53
+Slovakia,2020,0.00,Central and Eastern Europe,6.28,38.22,36.62
+Solomon Islands,2020,0.00,Oceania,0.00,79.74,17.55
+Somalia,2020,0.00,Middle East and Northern Africa,4.66,110.88,12.62
+Somaliland,2020,0.00,Middle East and Northern Africa,4.66,110.88,12.62
+South Sudan,2020,0.00,Middle East and Northern Africa,2.81,110.75,12.64
+Syria,2020,0.00,Middle East and Northern Africa,3.46,110.74,12.64
+Taiwan,2020,68730.00,Eastern Asia,6.45,0.00,0.00
+The Gambia,2020,0.00,Sub-Saharan Africa,0.00,82.21,17.02
+Timor-Leste,2020,0.00,Southeastern Asia,0.00,82.66,16.93
+Vanuatu,2020,0.00,Oceania,0.00,0.00,0.00
+Western Sahara,2020,7369.49,Middle East and Northern Africa,5.09,71.22,19.65
+Yemen,2020,0.00,Middle East and Northern Africa,3.52,112.43,12.45

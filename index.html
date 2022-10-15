@@ -1,0 +1,160 @@
+<!--    -->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title> Happiness Score and .... </title>
+
+  <!-- import all Vega & Vega-Lite, vega-embed javascript libraries poossibly needed -->
+  <!-- Also import the Vega topojson-client package -->
+  <!-- All below provided at https://vega.github.io/vega/usage/#import  -->
+  <!-- old links:   
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>    
+  -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+
+
+  <!-- import pure.css from https://purecss.io/start/ -->
+  <link rel="stylesheet" 
+        href="https://cdn.jsdelivr.net/npm/purecss@2.1.0/build/pure-min.css" 
+        integrity="sha384-yHIFVG6ClnONEA5yB5DJXfW2/KC173DIQrYoZMEtBvGzmf0PKiGyNEqe9N6BNDBH" 
+        crossorigin="anonymous">
+  
+
+  <!--  import the Viewport Meta Element from https://purecss.io/start/-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <!-- Google font . Got from https://fonts.google.com/  . Searched "open sans".  -->
+  <!-- old links:
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> 
+
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+
+
+</head>
+
+<body>
+  
+<!--  pure-g grid. For syntax, refer to  https://purecss.io/start/  -->
+<!--  For webpage title and topic introduction -->
+<div class = "pure-g">
+  <div class="pure-u-1-1">
+      <h1> World Happineess Score</h1>
+      <p> How does an average person’s degree of happiness correlate with factors 
+        such as their financial earning power and living environment?
+      </p>
+  </div>
+</div>
+
+<!--  1st Section": Happiness Score intro -->
+<div class = "pure-g">
+  <div class="pure-u-1-2">
+    <h2> World Happiness Score    </h2>
+    <p> The World Happiness Score is a measure of the degree of happiness of countries, 
+      compiled in an annual report by a team of economists, formed through a 
+      United Nations global initiative Sustainable Development Solutions Network [4]. 
+    </p>
+    <p> The measure is primarily based on the survey data collection efforts of the annual 
+      Gallup World Poll [5], based on the survey answers of representative annual samples 
+      of typically 1000 respondents from each countries’ population. 
+      Survey question topics are those closely pertaining to the main life evaluations of respondents [6].
+    </p>
+  </div>
+  <!--  For choropleth map -->
+  <div class="pure-u-1-2">
+    <div id="choropleth1">  </div>
+  </div>
+</div>
+
+<!--  2nd Section -->
+<div class = "pure-g">
+  <!--  Fragile States Index / Stability Index intro -->
+  <div class="pure-u-1-2">
+    <h2>Fragile States Index</h2>
+    <p>The Fragile States Index [1] is a ranking measure of the stability status of 
+      countries, devised by a United States non-governmental, non-profit organisation 
+      Fund for Peace [2]. 
+    </p>
+    <p>It is the result of a combination of human experts analysis and 
+      data collection using advanced information technology techniques.
+      Countries are ranked by political analysts according to 12 key indicators 
+      in areas of political, social and economic stability, 
+      as well as degrees of internal cohesion and external interventions [3].
+    </p>
+  </div>
+
+  <!--  GDP per capita (PPP) intro -->
+  <div class="pure-u-1-2">
+    <h2>GDP per capita (PPP)</h2>
+    <p> 
+      GDP of a country is an economic measure of the total monetary value of 
+      final services and goods produced by the country’s whole population over 
+      a period of time, in terms of the country’s national currency [7]. 
+      A country with a high GDP can have a low-moderate average standard of living, 
+      and vice versa (for example, China versus Singapore).
+    </p>
+    <p>
+      In order to properly compare different countries’ standard of living, 
+      economists usually refer to the GDP per capita (PPP), which is basically 
+      GDP averaged by the country population and converted to a common currency 
+      (typically, US dollars) using the Purchasing Power Parity (PPP) exchange rate [8].
+    </p>
+  </div>
+</div>
+
+<!--  3rd Section": Correlation graphs -->
+<div class = "pure-g">
+  <div class="pure-u-1-2">
+  </div>
+  <!--  For scatterplots -->
+  <div class="pure-u-1-2">
+    <div id="scatterplot1"></div>
+  </div>
+</div>
+
+<!--  Footnote section   -->
+<div class="pure-g">
+  <div class="pure-u-1-1">
+      insert footnotes and references here.
+  </div>
+</div>
+
+
+
+
+<!--  Javascript section below       -->
+
+<script type="text/javascript">
+
+  var Viz1 = "js/choropleth.vg.json";
+  vegaEmbed('#choropleth1', Viz1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  var Viz2 = "js/bubblechart.vg-legendselection-FSI.json";
+  vegaEmbed('#scatterplot1', Viz2, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+</script>
+
+
+</body>
+
+</html>

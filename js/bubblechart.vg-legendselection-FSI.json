@@ -1,0 +1,97 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": "World GDP per capita (PPP)",
+
+  "description": "GDP per capita based on purchasing power parity (PPP) of countries over Time.",
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/danielaladaniel/test-code/master/data/final_table.csv"
+  },
+  
+  "params" :[ { 
+    "name" : "region_highlight" , 
+    "select" : { 
+      "type" : "point" , 
+      "fields" : [ "Region" ]}, 
+    "bind" : "legend" 
+    } ],
+
+  "transform": [ {"filter": "datum.Year == 2017"}  ],
+
+  "hconcat": [
+    {
+      "width" : 300 , 
+      "height" : 300 ,
+
+      "mark": {
+        "type": "circle"
+      },
+
+      "encoding": {
+        "x": {
+          "field": "Happiness_Score", 
+          "type": "quantitative", 
+          "title": "Happiness Score"
+          },
+        "y": {
+          "field": "GDP_ppp_per_capita", 
+          "type": "quantitative", 
+          "title": "GDP per capita (international $)",
+          "aggregate": "sum"
+          },
+        "color": {"field": "Region", "type": "nominal"},
+        "opacity" : { 
+          "condition" : { 
+            "param" : "region_highlight" , 
+            "value" : 0.8 
+            }, 
+          "value" : 0.1 },
+        "tooltip" : [ 
+          {"field" : "Country" , "type" : "nominal" }, 
+          { "field" : "GDP_ppp_per_capita" , "title": "GDP per capita (PPP)", "type" : "quantitative" , "format" : "$,.2f" }, 
+          { "field" : "Region" , "type" : "nominal" }]
+        }  
+    },
+    {
+      "width" : 300 , 
+      "height" : 300 ,
+
+      "mark": {
+        "type": "circle"
+      },
+
+      "encoding": {
+        "x": {
+          "field": "Happiness_Score", 
+          "type": "quantitative", 
+          "title": "Happiness Score"
+          },
+        "y": {
+          "field": "Stability", 
+          "type": "quantitative", 
+          "title": "Stability index",
+          "aggregate": "sum"
+          },
+        "color": {"field": "Region", "type": "nominal"},
+        "opacity" : { 
+          "condition" : { 
+            "param" : "region_highlight" , 
+            "value" : 0.8 
+            }, 
+          "value" : 0.1 },
+        "tooltip" : [ 
+          {"field" : "Country" , "type" : "nominal" }, 
+          { "field" : "GDP_ppp_per_capita" , "title": "GDP per capita (PPP)", "type" : "quantitative" , "format" : "$,.2f" }, 
+          { "field" : "Region" , "type" : "nominal" }]
+        }  
+    }
+
+  ]
+
+
+}
+
+
+

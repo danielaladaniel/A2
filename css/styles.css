@@ -1,0 +1,18 @@
+
+/*  comments    */
+
+.body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+#choropleth {
+
+	/*height: 1000px; width: 800px;*/
+	left: 100px;
+	right: 100px;
+
+	top:100px;
+	bottom: 100px; 
+
+}

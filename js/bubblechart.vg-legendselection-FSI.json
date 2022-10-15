@@ -7,7 +7,7 @@
   "description": "GDP per capita based on purchasing power parity (PPP) of countries over Time.",
 
   "data": {
-    "url": "https://raw.githubusercontent.com/danielaladaniel/test-code/master/data/final_table.csv"
+    "url": "https://raw.githubusercontent.com/danielaladaniel/A2/main/data/final_table.csv"
   },
   
   "params" :[ { 

@@ -33,7 +33,7 @@
     "color": {
       "field": "Happiness Score (%)",
       "type": "quantitative",
-      "scale": {"type": "linear"}
+      "scale": {"type": "linear","scheme": "darkred"}
     },
     "tooltip": [
       {"field": "properties.NAME_LONG", "type": "nominal", "title": "Country"},

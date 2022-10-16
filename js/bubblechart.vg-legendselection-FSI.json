@@ -18,11 +18,11 @@
     "bind" : "legend" 
     } ],
 
-  "transform": [ {"filter": "datum.Year == 2017"}  ],
+  "transform": [ {"filter": "datum.Year == 2020"}  ],
 
   "hconcat": [
     {
-      "width" : 300 , 
+      "width" : "container" , 
       "height" : 300 ,
 
       "mark": {
@@ -55,7 +55,7 @@
         }  
     },
     {
-      "width" : 300 , 
+      "width" : "container" , 
       "height" : 300 ,
 
       "mark": {

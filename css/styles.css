@@ -2,6 +2,7 @@
 /*  comments    */
 
 .body {
+	/*  font-family: 'Fuzzy Bubbles', cursive;  */
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -9,16 +10,22 @@ body {
 	background-color: rgb(221, 236, 247);	
 }
 
-.format_body{
+.format_body {
 	padding: 45px;
 	background-color: white;
 	width: 950px;
 	margin: auto;
 	padding-top: 30px;
+	
 }
 
 .footnote_font{
 	font-size: 10px;
+	padding: 50px;
+}
+
+h1 {
+    font-weight: 800;
 }
 
 .format_choropleth {

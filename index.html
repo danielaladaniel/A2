@@ -5,7 +5,7 @@
 <html>
 
 <head>
-  <title> Happiness Score and .... </title>
+  <title> World Happiness Index </title>
 
   <!-- import all Vega & Vega-Lite, vega-embed javascript libraries poossibly needed -->
   <!-- Also import the Vega topojson-client package -->
@@ -33,16 +33,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-  <!-- Google font . Got from https://fonts.google.com/  . Searched "open sans".  -->
-  <!-- old links:
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
-  -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> 
+  <!-- Google font . Got from https://fonts.google.com/  . Searched "open sans"
+    and 'Source Sans Pro'.  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700;900&family=Open+Sans&display=swap" rel="stylesheet"> 
+  
 
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap" rel="stylesheet"> 
+  -->
 
   <!-- CSS file -->
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
@@ -59,15 +58,30 @@
     <div class = "pure-g">
       <div class="pure-u-1-1">
         <div class="format_textbox">
-          <h1> Happiness</h1>
-          <p> How does an average person’s degree of happiness correlate with factors 
-            such as their financial earning power and living environment?
-          </p>
+          <h1> Happiness depends upon ourselves </h1>
+          <h4> So the great philosopher Aristotle declared. </h4>
+ 
         </div>
       </div>
     </div>
 
-    <!--  1st Section": Happiness Score intro -->
+    <div class = "pure-g">
+      <div class="pure-u-1-1">
+        <div class="format_textbox">
+           <p> 
+            However, according to the results of an annual poll study<sup>1</sup>, modern happiness, 
+            it seems, may be influenced by a number of external factors. 
+
+            We were sceptical and graphed some independent data sources to investigate 
+            whether an average person’s degree of happiness correlates with any external factors 
+            such as their living locations and income. 
+          </p>
+          <p> Dear readers, you be the judge. </p>
+        </div>
+      </div>
+    </div>
+
+    <!--  1st Section": Happiness Index intro -->
     <div class = "pure-g">
 
       <!--  For choropleth map -->
@@ -77,15 +91,15 @@
 
       <div class="pure-u-2-5">
         <div class="format_textbox">
-          <h2> World Happiness Score    </h2>
-          <p> The World Happiness Score is a measure of the degree of happiness of countries, 
-            compiled in an annual report by a team of economists, formed through a 
-            United Nations global initiative Sustainable Development Solutions Network [4]. 
+          <h2> World Happiness Index    </h2>
+          <p> The World Happiness Index is a measure of the degree of happiness of countries, 
+            compiled in an annual report by a United Nations global initiative 
+            Sustainable Development Solutions Network<sup>1</sup>. 
           </p>
           <p> The measure is primarily based on the survey data collection efforts of the annual 
-            Gallup World Poll [5], based on the survey answers of representative annual samples 
+            Gallup World Poll<sup>2</sup>, based on the survey answers of representative annual samples 
             of typically 1000 respondents from each countries’ population. 
-            Survey question topics are those closely pertaining to the main life evaluations of respondents [6].
+            Survey question topics are those closely pertaining to the main life evaluations of respondents.
           </p>
         </div>
       </div>
@@ -96,16 +110,15 @@
       <!--  Fragile States Index / Stability Index intro -->
       <div class="pure-u-1-2">
         <div class="format_textbox">
-          <h2>Fragile States Index</h2>
-          <p>The Fragile States Index [1] is a ranking measure of the stability status of 
+          <h2>Stability Index</h2>
+          <p>The Fragile States Index<sup>3</sup> is a ranking measure of the stability status of 
             countries, devised by a United States non-governmental, non-profit organisation 
-            Fund for Peace [2]. 
-          </p>
-          <p>It is the result of a combination of human experts analysis and 
-            data collection using advanced information technology techniques.
-            Countries are ranked by political analysts according to 12 key indicators 
+            Fund for Peace. Countries are ranked by political analysts according to 12 key indicators 
             in areas of political, social and economic stability, 
-            as well as degrees of internal cohesion and external interventions [3].
+            as well as degrees of internal cohesion and external interventions.
+          </p>
+          <p>The Stability Index is calculated by a multiplicative inverse transformation of
+            the Fragile States Index. The more fragile a country, the lower its Stability Index.
           </p>
         </div>
       </div>
@@ -115,18 +128,18 @@
         <div class="format_textbox">
           <h2>GDP per capita (PPP)</h2>
           <p> 
-            GDP of a country is an economic measure of the total monetary value of 
-            final services and goods produced by the country’s whole population over 
-            a period of time, in terms of the country’s national currency [7]. 
-            A country with a high GDP can have a low-moderate average standard of living, 
-            and vice versa (for example, China versus Singapore).
+            In order to properly compare different countries’ standard of living, 
+            economists usually refer to each's GDP per capita (PPP).
+            GDP per capita (PPP) of a country is a measure of the value of
+            final goods and services produced per person by the country over 
+            a period of time, and converted to a common currency 
+            (typically, US dollars) using the Purchasing Power Parity (PPP) 
+            exchange rate<sup>4</sup>. 
           </p>
           <p>
-            In order to properly compare different countries’ standard of living, 
-            economists usually refer to the GDP per capita (PPP), which is basically 
-            GDP averaged by the country population and converted to a common currency 
-            (typically, US dollars) using the Purchasing Power Parity (PPP) exchange rate [8].
+            Shift-click the scatterplot legend below to select the Regions to isolate.
           </p>
+
         </div>
       </div>
     </div>
@@ -135,14 +148,39 @@
     <div class = "pure-g">
       <!--  For scatterplots -->
       <div class="pure-u-1-1">
-        <div id="scatterplot1" class="format_scatterplot></div>
+        <div id="scatterplot1" class="format_scatterplot"></div>
       </div>
     </div>
 
     <!--  Footnote section   -->
-    <div class="pure-g">
-      <div class="pure-u-1-1 footnote_font">
-          insert footnotes and references here.
+    <div class = "pure-g">
+      <div class="pure-u-1-1">
+        <div class="footnote_font">
+          
+          <p><sup>1</sup> Sustainable Development Solutions Network. (2022). World Happiness Reports. 
+            Retrieved from <a href="https://worldhappiness.report/archive/">
+              https://worldhappiness.report/archive/
+            </a>
+          </p>
+          <p><sup>2</sup> Gallup. (2022). World Poll Methodology. Retrieved from
+            <a href="https://news.gallup.com/poll/105226/world-poll-methodology.aspx">
+              https://news.gallup.com/poll/105226/world-poll-methodology.aspx
+            </a>            
+          </p>
+          <p><sup>3</sup> The Fund for Peace. (2022).  Measuring Fragility: 
+            Risk and Vulnerability in 179 Countries.
+            Retrieved from <a href="https://fragilestatesindex.org/">
+              https://fragilestatesindex.org/
+            </a>            
+          </p>
+          <p><sup>4</sup> International Monetary Fund. (2022). 
+            Purchasing Power Parity: Weights Matter.
+            Retrieved from <a href="https://www.imf.org/external/pubs/ft/fandd/basics/ppp.htm">
+              https://www.imf.org/external/pubs/ft/fandd/basics/ppp.htm
+            </a>            
+          </p>
+
+        </div>
       </div>
     </div>
 

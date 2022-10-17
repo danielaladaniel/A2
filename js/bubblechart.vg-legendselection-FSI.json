@@ -2,7 +2,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
-  "title": "World GDP per capita (PPP)",
+  "title": "World GDP per capita (PPP) and Stability Index against Happiness Index",
 
   "description": "GDP per capita based on purchasing power parity (PPP) of countries over Time.",
 
@@ -33,7 +33,7 @@
         "x": {
           "field": "Happiness_Score", 
           "type": "quantitative", 
-          "title": "Happiness Score"
+          "title": "Happiness Index"
           },
         "y": {
           "field": "GDP_ppp_per_capita", 
@@ -51,6 +51,7 @@
         "tooltip" : [ 
           {"field" : "Country" , "type" : "nominal" }, 
           { "field" : "GDP_ppp_per_capita" , "title": "GDP per capita (PPP)", "type" : "quantitative" , "format" : "$,.2f" }, 
+           { "field" : "Stability" , "title": "Stability index", "type" : "quantitative" , "format" : ",.2f" }, 
           { "field" : "Region" , "type" : "nominal" }]
         }  
     },
@@ -66,7 +67,7 @@
         "x": {
           "field": "Happiness_Score", 
           "type": "quantitative", 
-          "title": "Happiness Score"
+          "title": "Happiness Index"
           },
         "y": {
           "field": "Stability", 
@@ -86,7 +87,8 @@
           "value" : 0.1 },
         "tooltip" : [ 
           {"field" : "Country" , "type" : "nominal" }, 
-          { "field" : "GDP_ppp_per_capita" , "title": "GDP per capita (PPP)", "type" : "quantitative" , "format" : "$,.2f" }, 
+          { "field" : "GDP_ppp_per_capita" , "title": "GDP per capita (PPP)", "type" : "quantitative" , "format" : "$,.2f" },
+          { "field" : "Stability" , "title": "Stability index", "type" : "quantitative" , "format" : ",.2f" }, 
           { "field" : "Region" , "type" : "nominal" }]
         }  
     }

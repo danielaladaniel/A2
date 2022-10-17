@@ -3,7 +3,9 @@
 
 .body {
 	/*  font-family: 'Fuzzy Bubbles', cursive;  */
-	font-family: 'Source Sans Pro', sans-serif;
+	/* font-family: 'Source Sans Pro', sans-serif; */
+	/* font-family: 'Open Sans', sans-serif; */
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
 }
 
 body {
@@ -16,7 +18,7 @@ body {
 	width: 950px;
 	margin: auto;
 	padding-top: 30px;
-	
+	font-family: 'Open Sans', sans-serif;
 }
 
 .footnote_font{

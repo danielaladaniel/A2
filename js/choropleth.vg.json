@@ -33,7 +33,8 @@
     "color": {
       "field": "Happiness Index (%)",
       "type": "quantitative",
-      "scale": {"type": "linear","scheme": "darkred"}
+      "scale": {"type": "linear","scheme": "darkred"},
+      "legend": {"labelExpr": "datum.value==0 ? '0 (no data)':datum.value" }
     },
     "tooltip": [
       {"field": "properties.NAME_LONG", "type": "nominal", "title": "Country"},

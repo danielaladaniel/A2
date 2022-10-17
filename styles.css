@@ -1,0 +1,50 @@
+
+/*  comments    */
+
+body *{
+
+	font-family: 'Open Sans', sans-serif; 
+	/* font-family: 'Fira Sans Extra Condensed', sans-serif; */
+}
+
+body {
+	background-color: rgb(221, 247, 246);
+	/*
+	background-color: rgb(221, 236, 247);
+	*/	
+}
+
+.format_body {
+	padding: 45px;
+	background-color: white;
+	width: 950px;
+	margin: auto;
+	padding-top: 30px;
+	/* font-family: 'Open Sans', sans-serif; */
+}
+
+.footnote_font{
+	font-size: 11px;
+	padding: 50px;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.format_choropleth {
+	/*    */
+	width: 100%;
+}
+
+.format_scatterplot {
+	width: 90%;
+}
+
+.format_textbox {
+	text-align: justify;
+	padding: 25px;
+	padding-top: 10px;
+}
+
+

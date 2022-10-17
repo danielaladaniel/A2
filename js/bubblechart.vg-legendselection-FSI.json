@@ -2,7 +2,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
-  "title": "World GDP per capita (PPP) and Stability Index against Happiness Index",
+  "title": "World 2020 GDP per capita (PPP) and Stability Index against Happiness Index",
 
   "description": "GDP per capita based on purchasing power parity (PPP) of countries over Time.",
 
@@ -18,7 +18,11 @@
     "bind" : "legend" 
     } ],
 
-  "transform": [ {"filter": "datum.Year == 2020"}  ],
+  "transform": [ {"filter": "datum.Year == 2020"} ,
+        {"filter": "datum.Happiness_Score > 0"},
+        {"filter": "datum.GDP_ppp_per_capita > 0"}, 
+        {"filter": "datum.Stability > 0"}  
+  ],
 
   "hconcat": [
     {
